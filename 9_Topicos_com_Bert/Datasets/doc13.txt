@@ -1,0 +1,104 @@
+Engenharia de minas
+Origem: Wikipédia, a enciclopédia livre.
+
+Engenharia de minas: exploração subterrânea de cobre e zinco, em Neves-Corvo, Portugal.
+A engenharia de minas é o ramo da engenharia que se ocupa do aproveitamento dos recursos da Terra, especialmente através da exploração de minas, utilizando os conhecimentos de diversos ramos da ciência, particularmente os da geologia, da química e da física.
+
+Entre outras áreas, a engenharia de minas intervém na pesquisa, prospeção e extração dos recursos minerais (incluindo minérios, águas minerais e hidrocarbonetos), na mineralogia e metalurgia, no tratamento e refinação de recursos minerais, na gestão do subsolo, construção de túneis e outros aspetos da engenharia subterrânea no âmbito da construção civil e na engenharia de combustíveis e explosivos.
+
+A engenharia de minas é um dos mais antigos ramos da engenharia.
+
+
+Índice
+1	História
+2	Pesquisa de minerais
+2.1	Prospeção
+2.2	Determinação do mineral
+2.3	Estudo de viabilidade
+3	Operação de minas
+3.1	Mineração à superfície
+3.2	Mineração por explosivos
+4	Áreas de atuação dos engenheiros de minas
+5	Referências
+6	Ver também
+História
+
+Minas de diamantes em Minas Gerais, Brasil, durante o século XVIII.
+Desde os primórdios da civilização, o Homem usou pedra, cerâmica e, mais tarde, metais encontrados junto à superfície da Terra, para fabricar ferramentas e armas. Por exemplo, o sílex de alta qualidade encontrado no Norte de França e no Sul da Inglaterra era utilizado para ignições e para partir rocha. Foram descobertas antigas minas de sílex nas regiões calcárias, nas quais foram explorados veios subterrâneos de minério, através da escavação de poços e galerias subterrâneas. Segundo os registros arqueológicos, a mais antiga mina conhecida é a da Cova do Leão na Suazilândia. Neste local, que foi datado como tendo 43 000 anos através da datação por radiocarbono, os humanos do Paleolítico mineralizaram minério de hematite, o qual continha ferro e era utilizado para produzir o pigmento ocre.
+
+Os antigos Romanos foram grandes inovadores na engenharia de minas, desenvolvendo métodos de mineração em larga escala. Desenvolveram especialmente o uso de grandes volumes de água transportados até às explorações mineiras por aquedutos. A rocha exposta era aquecida pelo fogo e em seguida molhada com água, causando um choque térmico que fazia com que a rocha se rachasse, permitindo a sua remoção. Em algumas minas, os Romanos utilizavam máquinas hidráulicas, como as rodas de água usadas nas minas de cobre de Rio Tinto no Sudoeste de Espanha, para extrair água a cerca de 25 m de profundidade.
+
+A pólvora foi usada, pela primeira vez, na mineração em 1627, nas minas de Banská Štiavnica, na atual Eslováquia. A utilização de explosivos passou a permitir rebentar com a rocha e com a terra, libertando e revelando veios de minério e uma forma muito mais rápida que o antigo sistema de choque térmico com fogo e água. A Revolução Industrial levou a mais avanços tecnológicos na engenharia de minas, incluindo a introdução de explosivos mais aperfeiçoados, de bombas a vapor, elevadores e brocas.
+
+Em 1765, em Freiberga, no Saxe, é fundada a Bergakademie Freiberg (Academia de Minas de Freiberga), a mais antiga escola de engenharia de minas do mundo.
+
+Pesquisa de minerais
+A engenharia de minas atua em todos os estágios da mineração. A sua primeira função é a da descoberta de uma jazida mineral e a determinação da viabilidade do estabelecimento de uma mina para o explorar.
+
+Prospeção
+Os engenheiros de minas envolvem-se na prospeção de minério, trabalhando em conjunto com os geólogos no sentido de identificarem reservas minerais. O primeiro passo na descoberta de uma jazida mineral é o de determinar quais os minérios que se deverão buscar e testar. Os geólogos e os engenheiros irão retirar amostras de minério do subsolo por prefuração, bem como irão realizar pesquisas à superfície em busca por minérios e compostos específicos. As prospecções serão orientadas para a busca de minérios de metal como a galena quando se pretende obter chumbo ou a torbernite quando se pretende cobre. As pesquisas também poderão ser feitas em busca de não metais como o fosfato, o quartzo e o carvão.
+
+A descoberta pode ser feita através da pesquisa de cartas geológicas, de relatórios gelógicos académicos ou de relatórios geológicos de autoridades públicas. Outras fontes de informação incluem registos de ensaios em propriedades, de prefurações de poços ou mesmo de relatos locais. A pesquisa mineral pode também usar meios como os satélites ou a fotografia aérea.
+
+Determinação do mineral
+Depois de um possível mineral ser localizado, o engenheiro de minas irá determinar as propriedades do minério. Isto poderá envolver análises químicas para determinar a composição das amostras de minério. Depois das propriedades minerais serem identificadas, o próximo passo é o de determinar a quantidade de minério existente. Isto envolve a determinação da extensão da jazida, bem como o grau de pureza do minério. Os engenheiros de minas poderão realizar perfurações adicionais para retirar amostras de minério para determinar os limites da jazida ou do veio e calcular a quantidade de minério presente no depósito.
+
+Estudo de viabilidade
+
+Poluição da água por ácidos nas antigas minas de pirites de Northland, Canadá.
+A partir do momento em que a identificação do mineral e da sua quantidade estão rezoavelmente determinados, o próximo passo é o de determinar a viabilidade de explorar o depósito mineral. Um estudo preliminar, logo após a descoberta do depósito, examina as condições do mercado, como as da oferta e da procura do mineral, a quantidade de minério que terá de ser extraída para se obter uma determinada quantidade do mineral e os custos associados à operação. Este de pré-estudo de viabilidade determina se o projeto de mineração é potencialmente lucrativo. Se o for, é feito um estudo de viabilidade mais aprofundado. Depois da extensão total do depósito ser conhecida e examinada pelos engenheiros, o estudo de viabilidade examina o custo do investimento no capital inicial, os métodos de extração, o custo da operação, o tempo estimado para retorno do investimento, a remuneração bruta, a margem líquida de lucro, possíveis lucros futuros na revenda dos terrenos, tempo de vida total da reserva, o valor total da reserva, investimento em futuros projetos e os contratos com os proprietários. São também considerados o impacto ambiental, as ramificações legais, as licenças estatais e a recuperação paisagística. Estes vários aspetos do estudo irão determinar se uma empresa mineralífera procederá com a extração dos minerais ou se o projeto será abandonado. A empresa mineralífera poderá decidir vender os direitos de mineração a um terceiro, em vez de a desenvolver ela própria ou adiá-la indefinidamente até as condições do mercado se mostrarem mais favoráveis.
+
+Operação de minas
+Os engenheiros de minas que desenvolvem a sua atividade numa mina já estabelecida podem ocupar-se da melhoria da sua operação, da exploração de mais minério e da potencialização dos recursos, determinando onde reforçar o pessoal e o material na mina. Os engenheiros de minas também podem assumir funções de supervisão e gestão, de venda de minerais e equipamento de mineração, de proteção ambiental e de higiene e segurança no trabalho.
+
+O ato da mineração requer métodos diferentes de extração, que dependem da mineralogia, da geologia e da localização dos recursos. Características como a dureza, a estratificação e o acesso ao mineral irão determinar quais os métodos de extração a serem utilizados.
+
+Geralmente, a mineração é feita à superfície ou no subsolo. A mineração também pode ser mista (à superfície e no subsolo) para a mesma reserva. A atividade mineira varia conforme o método usado para extrair o mineral.
+
+Mineração à superfície
+
+Exploração mineira de cobre à superfície, em Chuquicamata, Chile.
+Cerca de 90 % da produção de minerais do mundo tem origem na superfície. A mineração à superfície ou a céu aberto consiste em remover minerais a partir de formações na superfície do solo ou junto à mesma. A obtenção do minério é feita pela remoção do material no seu estado natural a partir do solo. Frequentemente, a mineração a céu aberto altera as características da terra, tais como os seus formato, topografia e composição geológica.
+
+A mineração à superfície envolve a extração dos minerais através de máquinas de corte, de britagem e perfuração. Os explosivos são muitas vezes usados para facilitar o desmonte dos materiais. Minerais duros como o calcário, a areia, o cascalho e a ardósia são normalmente extraídos numa série de bancos.
+
+Os minerais mais macios como as argilas e fosfatos são removidos através do uso de escavadoras mecânicas, bulldozers e carregadoras. Os veios de carvão mais macios também podem ser extraídos desta forma.
+
+Os minerais também podem ser removidos de depósitos aluviais como os que se forma no fundo dos lagos, rios e mesmo oceanos, através de dragagem. Além disso, pode ser realizada a mineração de depósitos aluviais através do uso de agentes dissoventes no minério, retirando-se o minério por bombagem. A matéria bombeada é, depois filtrada. A mineração hidráulica usa jatos de água para retirar os resíduos ou o próprio minério.
+
+Mineração por explosivos
+Os explosivos são usados para quebrar as formações rochosas, possibilitando assim o carregamento e o transporte do minério para as sucessivas etapas de seu beneficiamento. Existem dois tipos de explosivos usados na mineração: os de alta velocidade e os de baixa velocidade. Os explosivos de alta velocidade usa alto explosivos enquanto o de baixa velocidade usa baixo explosivos. Os engenheiros de minas determinam a colocação das cargas explosivas e a sequência de rebentamento para libertar a quantidade máxima de minério de forma eficiente e segura. Os engenheiros também são responsáveis pela segurança dos mineiros ao determinarem o tipo de escoração que devem ter a crateras abertas pelos rebentamentos.
+
+Áreas de atuação dos engenheiros de minas
+Sondagens e cartografias geológicas e geotécnicas;
+Prospeção, caraterização e exploração de água;
+Dragagens, drenagens e rebaixamentos de níveis freáticos;
+Caracterização de aquíferos;
+Caracterização geomecânica de maciços rochosos;
+Exploração de rochas para fins industriais e ornamentais;
+Exploração de minerais metálicos e não metálicos;
+Instalações para transformação de rocha e para separação e concentração de minerais;
+Recuperação ambiental em explorações de céu aberto;
+Escavações a céu aberto com recurso à utilização de explosivos, a meios mecânicos ou a métodos especiais;
+Desmonte com recurso à utilização de explosivos;
+Desmonte subaquático com recurso à utilização de explosivos ou meios mecânicos;
+Diques, barragens de terra e enrocamento;
+Estaleiros de obra;
+Redes de ar comprimido, ventilação e esgoto em explorações minerais;
+Infraestruturas rodoviárias, aeroportuárias ou ferroviárias;
+Canais e vias navegáveis;
+Infraestruturas de saneamento, distribuição de água, condutas de gás e cabos de telecomunicações;
+Fundações superficiais;
+Estabilização de taludes, de solos e de maciços rochosos;
+Impermeabilizações e isolamentos;
+Economia mineral: análise de viabilidade técnica e econômica de projetos de mineração, política mineral, estudo mercadológico;
+Pregagens e ancoragens;
+Revestimentos superficiais;
+Contenções periféricas;
+Escavações subterrâneas com recurso a explosivos, meios mecânicos ou métodos especiais;
+Contenções de escavações subterrâneas;
+Demolições com recurso à utilização de explosivos;
+Movimento de terras;
+Aterros de resíduos industriais, estações de triagem e reciclagem;
+Rampas de varadouro;
+Alimentação artificial de praias.

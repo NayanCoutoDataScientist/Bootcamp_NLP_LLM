@@ -1,0 +1,71 @@
+Infecção
+Origem: Wikipédia, a enciclopédia livre.
+
+Este artigo ou secção cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Agosto de 2011)
+Ambox rewrite.svg
+Este artigo carece de reciclagem de acordo com o livro de estilo. Sinta-se livre para editá-la para que esta possa atingir um nível de qualidade superior. (Novembro de 2016)
+Doença infecciosa
+
+Uma microfotografia com coloração artificial revela um esporozoíto de malária em migração através dos epitélios do intestino
+Especialidade	infectologia
+Classificação e recursos externos
+CID-10	A00-B99
+CID-9	001-139
+MeSH	D003141
+A Wikipédia não é um consultório médico. Leia o aviso médico 
+Infecção (português brasileiro) ou infeção (português europeu) é a invasão de tecidos corporais de um organismo hospedeiro por parte de organismos capazes de provocar doenças; a multiplicação destes organismos; e a reação dos tecidos do hospedeiro a estes organismos e às toxinas por eles produzidas.[1] Uma doença infecciosa corresponde a qualquer doença clinicamente evidente que seja o resultado de uma infeção, presença e multiplicação de agentes biológicos patogénicos no organismo hospedeiro.
+
+As infecções são causadas por agentes infecciosos, como os vírus, viroides e priões, por micro-organismos como as bactérias, por nematódeos, por artrópodes como as carraças, ácaros, pulgas e piolhos, por fungos e por outros macroparasitas. O hospedeiro é capaz combater a infeção através do seu sistema imunitário. Os mamíferos reagem à infecção através do sistema imune inato, um processo que envolve muitas vezes a inflamação à qual sucede uma resposta do sistema imune adquirido.[2]
+
+
+Índice
+1	Agentes Infecciosos
+2	Infecção comunitária
+3	Infecção Hospitalar
+4	Sistemas fechados de infusão
+5	Resistência Bacteriana
+6	Tipos de infecções
+7	Ver também
+8	Referências
+Agentes Infecciosos
+Os agentes infecciosos, na maioria das vezes, são seres microscópicos tais como vírus, bactérias, fungos, parasitas (muitos macroscópicos), virions e príons. Os príons estão associados a várias doenças, como por exemplo, a encefalopatia espongiforme bovina, uma doença que acomete o gado conhecida como "doença da vaca louca", ou a sua variante humana, a doença de Creutzfeldt-Jakob. Desta definição conclui-se que em todas as infecções existe uma inflamação, mas nem todas as inflamações são infecções. A inflamação é definida como a presença de edema (inchaço), hiperemia (vermelhidão), hiperestesia (dor ao toque), aumento da temperatura no local e, às vezes, perda de função. Assim, uma simples queimadura de sol já produz uma inflamação, pois a pele fica vermelha, ardida, quente e inchada. Mas, em princípio, não existe infecção pois não há bactérias ou vírus causando esta inflamação. Já uma amigdalite aguda, vulgarmente chamada de dor de garganta, apresenta, na garganta, todos os aspectos da inflamação e mais a presença de bactérias ou vírus que produziram esta inflamação. A infecção pode levar a formação de pus, num processo conhecido por supuração.
+
+Infecção comunitária
+Infecção comunitária é a infecção presente ou em incubação no ato de admissão do paciente, desde que não relacionada com internamento anterior no mesmo hospital. São, também, comunitárias: 1. As infecções associadas a complicações ou extensão da infecção já presente na admissão, a menos que haja troca de microrganismo ou sinais ou sintomas fortemente sugestivo da aquisição de nova infecção. 2. Infecção em recém-nascido, cuja aquisição por via transplacentária é conhecida ou foi comprovada e que tornou-se evidente logo após o nascimento (exemplos: herpes simples, toxoplasmose, rubéola, citomegalovirose, sífilis e AIDS). Adicionalmente, são, também, consideradas comunitárias todas as infecções de recém-nascidos associadas com ruptura da bolsa amniótica superior a 24 horas.
+
+Infecção Hospitalar
+Ver artigo principal: Infecção hospitalar
+"Infecção hospitalar" ou "infecção nosocomial" é toda infecção (pneumonia, infecção urinária, infecção cirúrgica...) adquirida dentro de um ambiente relacionado à saúde (hospitais, unidades básicas, asilos...). A maioria das infecções hospitalares são de origem endógena, isto é, são causadas por microrganismos do próprio paciente. Isto pode ocorrer por fatores inerentes ao próprio paciente (exemplos: diabetes, tabagismo, obesidade, imunossupressão etc.) ou pelo fato de, durante a hospitalização, o paciente ser submetido a procedimentos invasivos diagnósticos ou terapêuticos (cateteres vasculares, sondas vesicais, ventilação mecânica etc.). As infecções hospitalares de origem exógena geralmente são transmitidas pelas mãos dos profissionais de saúde ou outras pessoas que entrem em contato com o paciente.
+
+No Brasil, para reduzir os riscos de ocorrência de infecção hospitalar, um hospital deve constituir uma Comissão de Controle de Infecção Hospitalar (CCIH), que é responsável por uma série de medidas como o incentivo da correta higienização das mãos dos profissionais de saúde; o controle do uso de antimicrobianos, a fiscalização da limpeza e desinfecção de artigos e superfícies etc.
+
+A infecção hospitalar é causa de grande preocupação das instituições de saúde do Brasil. Enquanto a média mundial de índice de infecção é 5%, o país apresenta o porcentual de 15,5% entre os pacientes internados, conforme dados do Ministério da Saúde. Um número que assusta não só os pacientes, como também as instituições de saúde, que, por conseqüência, têm suas despesas elevadas.
+
+Sistemas fechados de infusão
+Os sistemas fechados já são obrigatórios em diversos países do mundo, como Estados Unidos,Austrália e Colômbia. No Brasil, a Agência Nacional de Vigilância Sanitária (Anvisa) determinou, conforme resolução RDC 45, que, a partir de 2008, todos os sistemas abertos de infusão deverão ser substituídos pelos sistemas fechados.
+
+Alguns hospitais já utilizam o sistema fechado com bolsas flexíveis, como o Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulos, o Hospital Israelita Albert Einstein, o Hospital Sírio-Libanês, o Hospital Santa Catarina e São Luiz e vários outros serviços de saúde do Brasil.
+
+Diferentemente dos recipientes rígidos e semirrígidos, os sistemas fechados de infusão para soluções parenterais que utilizam bolsas flexíveis, não necessitam de elementos externos adicionais, como entrada de ar e equipos com filtro. Essas bolsas são produzidas em policloreto de vinila em sua maioria ou por outros tipos de plásticos. Desta forma, o sistema isolado e vedado, evitando infecções por micro-organismos do ambiente externo.
+
+A Baxter é uma das empresas que introduz a bolsa plástica e os sistemas flexíveis fechados. Presente há mais de 35 anos no mercado e utilizada em cerca de 140 países, as bolsas flexíveis Viaflex são consideradas um avanço significativo na administração com eficiência e segurança de soluções e medicamentos aos pacientes.
+
+Resistência Bacteriana
+A importância da resistência bacteriana aos antibióticos deve-se ao fato das bactérias que constituem a microbiota hospitalar estarem "acostumadas" a muitos antibióticos, ou melhor: os antibióticos usados no hospital em grande quantidade e diariamente vão matando as bactérias mais sensíveis, deixando que as bactérias que tem resistência ao antibiótico usado sem concorrência e livres para se multiplicarem, ocupando o espaço daquelas que morreram. Quando as bactérias resistentes causarem uma infecção, os antibióticos normalmente usados não surtirão efeito e será necessário utilizar antibióticos cada vez mais tóxicos, selecionando também bactérias cada vez menos sensíveis a este, e criando um círculo vicioso. O grande problema atual é a necessidade do uso racional destes antibióticos, tentando romper este ciclo.
+
+Tipos de infecções
+Existem 13 tipos:
+
+Infecção aérea – infecção microbiana adquirida através do ar e dos agentes infectantes nele contidos.
+Infecção critogénica – infecção de porta de entrada desconhecida.
+Infecção direta – infecção adquirida por contacto com um indivíduo doente.
+Infecção endógena – infecção devido a um micro-organismo já existente no organismo, e que, por qualquer razão, se torna patogénico.
+Infecção exógena – infecção provocada por micro-organismos provenientes do exterior.
+Infecção focal – infecção limitada a uma determinada região do organismo.
+Infecção indireta – infecção adquirida através da água, dos alimentos ou por outro agente infectante, e não de indivíduo para indivíduo.
+Infecção nosocomial – infecção adquirida em meio hospitalar.
+Infecção oportunista ou Oportunística – infecção que surge por diminuição das defesas orgânicas.
+Infecção puerperal – infecção surgida na mulher debilitada e com defesas diminuídas, logo após o parto.
+Infecção secundária – infecção consecutiva a outra e provocada por um micro-organismo da mesma espécie.
+Infecção séptica ou septicemia – infecção muito grave em que se verifica uma disseminação generalizada por todo o organismo dos agentes micro-orgânicos infecciosos.
+Infecção terminal – infecção muito grave que, em regra, é causa de morte.

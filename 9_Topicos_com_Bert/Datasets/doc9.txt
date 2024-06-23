@@ -1,0 +1,65 @@
+Microbiologia
+Origem: Wikipédia, a enciclopédia livre.
+
+A bactéria Salmonella (em vermelho) invade células humanas cultivadas.
+Microbiologia (do Grego μῑκρος, mīkros, "pequeno"; βίος, bios, "vida"; e -λογία, -logia, "estudo"; "estudo da vida pequena") é o estudo científico de microrganismos, aqueles sendo unicelulares (célula única), multicelulares (colônia de células) ou acelulares (ausentes de células; e.g. vírus).[1][2] A microbiologia abrange várias sub-disciplinas, incluindo virologia, bacteriologia, protistologia, micologia, imunologia e parasitologia.
+
+Os microrganismos eucarióticos possuem organelas ligadas à membrana e incluem fungos e protistas, enquanto os organismos procarióticos - todos os quais são microrganismos - são convencionalmente classificados como desprovidos de organelas ligadas à membrana e incluem Bactérias e Archaea.[3][4] Os microbiologistas tradicionalmente confiavam na cultura, coloração e microscopia. No entanto, menos de 1% dos microrganismos presentes em ambientes comuns podem ser cultivados isoladamente usando os meios atuais.[5] Microbiologistas costumam confiar em ferramentas da biologia molecular, como a identificação baseada na sequência de DNA, por exemplo, a sequência do gene 16S rRNA usada para a identificação de bactérias.
+
+A existência de microrganismos foi prevista muitos séculos antes de serem observados pela primeira vez, por exemplo, pelos jainistas na Índia e por Marco Terêncio Varrão na Roma antiga. A primeira observação microscópica registrada foi de corpos frutíferos de fungos, por Robert Hooke em 1666, mas o padre jesuíta Athanasius Kircher foi provavelmente o primeiro a ver micróbios, que ele mencionou ter observado no leite e em material pútrido em 1658. Anton van Leeuwenhoek é considerado como o pai da microbiologia quando observou e fez experiências com organismos microscópicos na década de 1670, usando microscópios simples de seu próprio projeto.[6] A microbiologia científica se desenvolveu no século XIX por meio do trabalho de Louis Pasteur e da microbiologia médica de Robert Koch.[7]
+
+
+Índice
+1	História
+2	O Nascimento da Bacteriologia
+3	Conceito
+4	Profissões relacionadas
+5	Ver também
+6	Ligações externas
+7	Referências
+8	Notas
+História
+
+Avicena teorizou a existência de microrganismos
+A existência de microrganismos foi teorizada por muitos séculos antes de sua descoberta real. A existência de vida microbiológica invisível foi postulada pelo Jainismo, que se baseia nos ensinamentos de Mahavira já no século VI a.C.[8] Paul Dundas observa que Mahavira afirmou a existência de criaturas microbiológicas invisíveis que vivem na terra, na água, no ar e no fogo.[9] As escrituras jainistas descrevem nigodas que são criaturas submicroscópicas que vivem em grandes aglomerados e têm uma vida muito curta, que permeiam todas as partes do universo, até mesmo em tecidos de plantas e carne de animais.[10] O romano Marco Terêncio Varrão fez referências aos micróbios quando advertiu contra a localização de uma cabana nas proximidades dos pântanos "porque existem certas criaturas diminutas que não podem ser vistas pelos olhos, que flutuam no ar e entram no corpo pela boca e nariz e, portanto, podem causar doenças graves."[11]
+
+Na era de ouro da civilização islâmica, os cientistas persas levantaram a hipótese da existência de microrganismos, como Avicena em seu livro O Cânone da Medicina, Ibn Zuhr (também conhecido como Avenzoar), que descobriu ácaros da sarna, e Rasis, que deu a descrição mais antiga conhecida da varíola em seu livro A Vida Virtuosa (al-Hawi).[12]
+
+Em 1546, Girolamo Fracastoro propôs que as doenças epidêmicas eram causadas por entidades semelhantes a sementes que podiam transmitir a infecção por contato direto ou indireto.[13]
+
+
+Anton van Leeuwenhoek, considerado o primeiro microscopista e microbiologista.
+Schematic drawings
+Microscópios de Van Leeuwenhoek por Henry Baker[14]
+Em 1676, Antonie van Leeuwenhoek, que viveu a maior parte de sua vida em Delft, Holanda, foi o primeiro a descobrir (observar), estudar, descrever, conduzir experimentos científicos com uma grande variedade de organismos microscópicos (incluindo bactérias, que ele chamou de "animálculos")[15] e aproximadamente determinar seu tamanho, usando microscópios de lente única de seu próprio projeto.[16][17][18] Ele é considerado o pai da microbiologia por ter sido o pioneiro no uso de microscópios de lente única simples.[19][20][21] Embora Van Leeuwenhoek seja frequentemente citado como o primeiro a observar micróbios, Robert Hooke fez sua primeira observação microscópica registrada de corpos frutíferos de fungos, em 1665.[22] No entanto, foi sugerido que um padre jesuíta chamado Athanasius Kircher foi o primeiro a observar os microrganismos.[23]
+
+Kircher foi um dos primeiros a projetar lanternas mágicas para fins de projeção, então ele devia estar bem familiarizado com as propriedades das lentes.[23] Ele escreveu "Sobre a estrutura maravilhosa das coisas na natureza, investigada pelo Microscópio" em 1646, declarando "quem acreditaria que o vinagre e o leite abrigam uma infinidade de vermes". Ele também notou que o material pútrido está cheio de inúmeros animálculos rastejantes. Ele publicou seu Scrutinium Pestis (Exame da Peste) em 1658, afirmando corretamente que a doença era causada por micróbios, embora o que ele viu foram provavelmente glóbulos vermelhos ou brancos, e não o próprio agente da peste.[23]
+
+O Nascimento da Bacteriologia
+Ver artigo principal: Bacteriologia
+
+Os métodos experimentais desenvolvidos por Louis Pasteur e outros biólogos contribuíram para o campo da bacteriologia no final do século XIX.
+O campo da bacteriologia (mais tarde se tornou uma subdisciplina da microbiologia) foi fundado no século XIX por Ferdinand Cohn, um botânico cujos estudos sobre algas e bactérias fotossintéticas o levaram a descrever várias bactérias, incluindo Bacillus e Beggiatoa. Cohn também foi o primeiro a formular um esquema para a classificação taxonômica de bactérias e a descobrir endosporos.[24] Louis Pasteur e Robert Koch foram contemporâneos de Cohn e são frequentemente considerados os pais da microbiologia moderna e da microbiologia médica, respectivamente.[23][25] Pasteur é mais famoso por sua série de experimentos projetados para refutar a então amplamente aceita teoria da geração espontânea, solidificando assim a identidade da microbiologia como ciência biológica.[26] Um de seus alunos, Adrien Certes, é considerado o fundador da microbiologia marinha.[27] Pasteur também projetou métodos de preservação de alimentos (pasteurização) e vacinas contra várias doenças, como antraz, cólera aviária e raiva.[2] Koch é mais conhecido por suas contribuições para a teoria dos germes das doenças, provando que doenças específicas eram causadas por microrganismos patogênicos específicos. Ele desenvolveu uma série de critérios que se tornaram conhecidos como Postulados de Koch. Koch foi um dos primeiros cientistas a se concentrar no isolamento de bactérias em cultura pura, resultando em sua descrição de várias novas bactérias, incluindo Mycobacterium tuberculosis, o agente causador da tuberculose.[2]
+
+
+Martinus Beijerinck em seu laboratório.
+Embora Pasteur e Koch sejam frequentemente considerados os fundadores da microbiologia, seu trabalho não refletia com precisão a verdadeira diversidade do mundo microbiano por causa de seu foco exclusivo em microrganismos com relevância médica direta. Foi somente no final do século XIX e no trabalho de Martinus Beijerinck e Sergei Winogradsky que a verdadeira amplitude da microbiologia foi revelada.[2] Martinus Beijerinck, o pai fundador da Delft School of Microbiology, frequentemente considerado como o fundador da virologia, microbiologia ambiental e microbiologia industrial,[28] fez duas contribuições importantes para a microbiologia: a descoberta de vírus e o desenvolvimento de técnicas de cultura de enriquecimento.[29] Embora seu trabalho com o vírus do mosaico do tabaco tenha estabelecido os princípios básicos da virologia, foi seu desenvolvimento da cultura de enriquecimento que teve o impacto mais imediato na microbiologia, permitindo o cultivo de uma ampla gama de micróbios com fisiologias totalmente diferentes. Winogradsky foi o primeiro a desenvolver o conceito de quimiolitotrofia e, assim, revelar o papel essencial desempenhado pelos microrganismos nos processos geoquímicos.[30] Ele foi responsável pelo primeiro isolamento e descrição de bactérias nitrificantes e fixadoras de nitrogênio.[2] O microbiologista franco-canadense Felix d'Herelle co-descobriu os bacteriófagos em 1917 e foi um dos primeiros microbiologistas aplicados.[31]
+
+Joseph Lister foi o primeiro a usar desinfetante fenol em feridas abertas de pacientes.[32]
+
+Conceito
+
+Mosca-preta adulta (Simulium yahense) com Onchocerca volvulus que emerge da antena do inseto.[a]
+Micróbios possuem características básicas do fundo dos organismos basicromáticos que os tornam os modelos de organismos ideais. Foi descoberta a origem das bactérias, tendo sido anterior à origem de outros corpos, tais como protozoários, eucariontes e vírus. Dentre os citados, o último a se desenvolver foram os protozoários, por tratar-se de seres com uma complexidade maior:
+
+São muito pequenos, então eles não consomem muitos recursos;
+Eles podem-se reproduzir por divisão mitótica, permitindo a propagação de clones idênticos em populações;
+Eles podem ser congelados por longos períodos de tempo. Mesmo se 90% das células são mortas pelo processo de congelamento, há milhões de células em um mililitro da cultura líquida.
+Estes traços permitiram que Joshua Lederberg e sua mulher Esther Lederberg pudessem dirigir um elegante experimento em 1951 demonstrando que adaptações evolutivas surgem melhor da preadaptação do que da mutação dirigida. Para isto, eles inventaram a replicação em placa, que permitiu que eles transferissem numerosas colônias de bactérias para locais específicos de uma placa de petri preenchida com Ágar-ágar para regiões análogas em diversas outras placas de petri. Após a replicação de uma placa com E. coli, eles expuseram cada uma das placas a fagos. Eles observaram que colônias resistentes aos fagos estavam presentes em partes análogas de cada placa, possibilitando-os concluir que os traços de resistência aos fagos existiam na colonia original, que nunca havia sido exposta aos fagos, ao invés de surgirem após as bactérias terem sido expostas aos vírus.
+
+A extensiva caracterização dos micróbios tem nos permitido o uso deles como ferramentas em outras linhas da biologia:
+
+Bactérias (especialmente Escherichia coli) podem ser usadas para reduplicar DNA na forma de um plasmídeo. Este DNA é frequentemente modificado quimicamente in vitro e, então, inserido em bactérias para selecionar traços desejados e isolar o produto desejado de derivados da reação. Após o crescimento da bactéria e, deste modo, a replicação do DNA, o DNA pode ser, adicionalmente, modificado e inserido em outros organismos.
+Bactérias podem também ser usadas para a produção de grandes quantidades de proteínas usando genes codificados em um plasmídeo.
+Genes bacteriais tem sido inseridos em outros organismos como genes repórteres.
+O sistema de hibridação em levedura combina genes de bactérias com genes de outros organismos já estudados e os insere em uma célula de levedura para estudar interações proteicas em um ambiente celular.

@@ -1,0 +1,188 @@
+Engenharia geográfica
+Origem: Wikipédia, a enciclopédia livre.
+Procurar imagens disponíveis
+A engenharia geográfica é o ramo da engenharia que se ocupa do estudo e execução de trabalhos na área da geografia, especialmente daqueles relacionados com a topografia, geodesia, hidrografia, cartografia, fotogrametria, sistemas de informação geográfica e cadastro predial.
+
+Termos como "engenharia geomática", "engenharia geoespacial", "engenharia de agrimensura", "engenharia cartográfica" e "engenharia topográfica," são também usados como designações alternativas, sendo sinônimos da engenharia geográfica em geral. As suas especialidades se ocupam especificamente da cartografia, da topografia ou da agrimensura. A engenharia hidrográfica é a especialidade da engenharia geográfica que se ocupa especificamente da hidrografia.
+
+
+Índice
+1	Áreas do conhecimento
+2	Áreas de atuação
+3	História e formação
+3.1	Em Portugal
+3.2	No Brasil
+3.2.1	Atribuições no Brasil
+4	Potenciais empregadores
+4.1	Portugal
+4.2	Brasil
+5	Ver também
+6	Referências
+7	Ligações externas
+7.1	Portugal
+7.2	Brasil
+Áreas do conhecimento
+Algumas cadeiras relacionadas ao curso são:
+
+Agrimensura,
+Astronomia,
+Batimetria e Hidrografia
+Cadastro,
+Cartografia,
+Ciência e sistemas de informação geográfica
+Detecção remota ou sensoriamento remoto
+Física,
+Fotogrametria (Aerofotogrametria) e Fotointerpretação
+Geodésia,
+Geodinâmica,
+Geoprocessamento,
+Gravimetria,
+Matemática,
+Planejamento territorial
+Topografia.
+Geografia e Geologia
+Hidrologia e Hidrometria
+Transportes, Tráfego e Rodovias
+Loteamento e arruamento
+Áreas de atuação
+Os engenheiros geógrafos, cartógrafos ou agrimensores trabalham nas áreas de sistemas de informação geográfica (SIG), topografia, cartografia, cadastro e fotogrametria. Atualmente estas áreas recorrem de forma intensiva à tecnologia (cartografia digital, deteção remota, recurso a satélites e sistemas de posicionamento global – GPS, etc.), o que exige destes profissionais uma grande capacidade de adaptação à inovação e a ambientes pluridisciplinares, dada a vasta aplicação dos seus conhecimentos.[1]
+
+Os engenheiros geógrafos, cartógrafo ou agrimensores desenvolvem trabalho, de forma direta ou indireta, em áreas como:
+
+Produção cartográfica
+Cadastro de prédios e ordenamento do território
+Plano físico territorial urbano
+Traçados de cidades
+Parcelamento do solo
+Assentamento urbano e regularização fundiária
+Georreferenciamento de imóveis
+Monitoramento de estruturas (estabilidade de taludes,
+Muros de contenção,
+Obras de terra,
+Irrigação,
+Rodovias,
+Pavimentação,
+Terraplenagem,
+Drenagem,
+Enrocamento,
+Barragens,
+Ferrovias
+Projeto de sistemas de informação geográfica
+Projeto rodoviário
+Projeto de pavimentação
+Sinalização rodoviária
+Terraplenagem
+Obras de terra
+Drenagem
+Desenho geométrico
+Esgotamento
+Abastecimento de água potável
+Projeto de saneamento urbano
+Projeto de loteamentos
+Projeto de condomínios horizontais
+Projeto de barragens
+Contenção de encostas
+Estabilidade de taludes
+Muros de contenção
+Levantamentos topobatimétricos
+Tecnologias aeroespaciais
+Mapeamento temático
+Sistemas de informação geográfica
+Detecção remota
+Fotogrametria
+Processamento digital de imagem
+Topografia
+Nivelamento geométrico
+Desmembramento e remenbramento
+Levantamentos geodesicos
+Levantamentos hidrográficos
+Hidrometria
+Localização e monitoramento por GPS
+Levantamentos topográficos
+Levantamentos aerofotogramétricos
+Navegação e controle de tráfego
+Apoio à construção de grandes obras de engenharia (pontes, barragens, autoestradas e ferrovias)
+Apoio à gestão de recursos e ordenamento do território (agricultura, geologia, florestas e ambiente)
+Controle de deformação de obras
+Apoio à engenharia industrial e mineira
+Estes engenheiros são responsáveis pelo plano, organização, especificação da metodologia, projeto, direção e fiscalização da execução de levantamentos topográficos, geodésicos, batimétricos, gravimétricos e fotogramétricos, pela interpretação de imagens para a elaboração de cartas e pela preparação do material para a impressão com símbolos, legendas, formatos e cores.
+
+São necessários em canteiros de obra, acompanhamento e monitoramento de áreas rurais e construções urbanas, além de construção de rodovias, ferrovias, hidrovias, barragens, loteamentos, minerações entre outras obras. O período de formação universitária desta engenharia é, em média, de cinco anos podendo se estender em caso de especializações ou atualização tecnológica do instrumental.
+
+História e formação
+Em Portugal
+Em Portugal, a licenciatura em engenharia geográfica foi criada na Universidade de Lisboa há mais de um século, no ano de 1921.[2] Hoje também ministrada nas universidades do Porto e Coimbra.[3] Faz parte do grupo das licenciaturas em engenharia acreditadas pela Ordem dos Engenheiros.[4] Inclui a Engenharia Geoespacial, Engenharia Hidrográfica e Engenharia Topográfica.[5]
+
+Recentemente foi re-organizada, de acordo com o Processo de Bolonha, em dois ciclos de preparação: um 1º ciclo, com uma duração de 3 anos (6 semestres) e um 2ºciclo com uma duração de 2 anos (4 semestres). O bom aproveitamento dos planos de estudos de ambos os ciclos confere o grau de mestre em engenharia geográfica. Mais recentemente, a engenharia geográfica vem sendo reformulada como engenharia geoespacial em algumas universidades portuguesas.[6][7]
+
+Engenharia Topográfica tem por fim o planejamento e realização de trabalhos topográficos, como a execução de levantamentos planimétricos e nivelamentos topográficos, a execução de implantação de obras, o cálculo de volumes de aterro e escavação de obras de engenharia, a realização de trabalhos de Fotogrametria e a implantação e manutenção de Sistemas de Informação Geográfica. Até há relativamente pouco tempo não havia formação de nível superior na área da topografia em Portugal. A execução dos serviços topográficos era realizada por topógrafos de escolaridade variada, com conhecimentos adquiridos de diversos modos. Atualmente é oferecida, por exemplo, pelo Instituto Politécnico da Guarda.[8]
+
+No Brasil
+Ver também: Agrimensura § No Brasil
+No Brasil, os primeiros engenheiros geógrafos e topógrafos foram formados na Academia Real Militar, em 1810. Embora sempre tenha existido desde então, mudou várias vezes de denominação e localização. Em 1941 o curso foi transferido para a antiga Escola Técnica do Exército, atual Instituto Militar de Engenharia (IME), passando a contar com o Curso de Geodésia e Topografia, formando então engenheiros geógrafos e, desde 1980, engenheiros cartógrafos no Rio de Janeiro.
+
+O primeiro curso com a denominação de engenharia cartográfica (EC) foi criado em 1965 na UERJ. Posteriormente, quatro instituições de ensino superior vieram a oferecer esse curso na graduação: Universidade Federal do Paraná, Universidade Estadual Paulista, Universidade Federal de Pernambuco e Universidade Federal do Rio Grande do Sul.
+
+O curso superior de Engenharia de Agrimensura foi promovido no Brasil pela Lei nº 3 144 de 20 de maio de 1957,[9] que determina que seja ministrado o Curso Superior de Agrimensura no país, conferindo a designação profissional de Engenheiro Agrimensor aos egressos. O curso foi posteriormente regulamentado pelo Decreto nº 53 943 de 03/06/1964.[10] A Resolução 02/1985 do então Conselho Federal de Educação, atual Conselho Superior de Educação, caracterizou a habilitação de Engenharia de Agrimensura do curso de Engenharia, estabelecendo conteúdos e duração mínimos.[11]
+
+Mas recentemente, a Engenharia Cartográfica e de Agrimensura (alternativamente, Engenharia de Agrimensura e Cartográfica) é o resultado da fusão dos dois cursos acima no Brasil, a partir de uma redução de títulos de Engenharia sugerida pelo CONFEA e pelo MEC. Nomenclaturas alternativas foram sugeridas anteriormente para a fusão dos cursos: Engenharia Geomática e Engenharia de Geomensura,[carece de fontes] porém não foram endossadas oficialmente. A maioria das universidades brasileiras já implementaram a fusão e algumas continuam com a formação separada (veja relação abaixo).
+
+A relação completa de instituições brasileiras de ensino superior, dividia por denominação do curso, é:
+
+Engenharia Cartográfica
+IME [5]
+UERJ [6]
+UFRGS [7]
+Engenharia de Agrimensura
+FEAMING [8]
+FEAP [9]
+UFAL [10]
+UNESC [11]
+Engenharia Cartográfica e de Agrimensura (ou Engenharia de Agrimensura e Cartográfica)
+FEASP [12]
+FINOM [13]
+IFG [14]
+IFSULDEMINAS [15]
+UFBA [16]
+UFPE [17]
+UFPI [18]
+UFPR [19]
+UFRA [20]
+UFRRJ [21]
+UFU [22]
+UFV [23]
+UNESP [24]
+UNIPAMPA [25]
+UNISINOS [26]
+Atribuições no Brasil
+É importante ressaltar que as atribuições profissionais de EC e EA não são exatamente as mesmas:
+
+Art. 4º - Compete ao ENGENHEIRO AGRIMENSOR:[12]
+I - o desempenho das atividades 01 a 12 e 14 a 18 do artigo 1º desta Resolução, referente a levantamentos topográficos, batimétricos, geodésicos e aerofotogramétricos; locação de:
+a) loteamentos;
+b) sistemas de saneamento, irrigação e drenagem;
+c) traçados de cidades;
+d) estradas; seus serviços afins e correlatos.
+II - o desempenho das atividades 06 a 12 e 14 a 18 do artigo 1º desta Resolução, referente a arruamentos, estradas e obras hidráulicas; seus serviços afins e correlatos.
+
+Art. 6º - Compete ao ENGENHEIRO CARTÓGRAFO ou ao ENGENHEIRO DE GEODÉSIA E TOPOGRAFIA ou ao ENGENHEIRO GEÓGRAFO:[12]
+I - o desempenho das atividades 01 a 12 e 14 a 18 do artigo 1º desta Resolução, referentes a levantamentos topográficos, batimétricos, geodésicos e aerofotogramétricos; elaboração de cartas geográficas; seus serviços afins e correlatos.
+
+Mais recentemente, com a unificação, temos o seguinte:[13]
+Art. 2º Compete ao engenheiro agrimensor e cartógrafo o desempenho das atividades 1 a 18 do art. 5º, § 1º, da Resolução nº 1.073, de 19 de abril de 2016, referentes a levantamentos topográficos, batimétricos, geodésicos e aerofotogramétricos; sensoriamento remoto; loteamento, desmembramento e remembramento; agrimensura legal; elaboração de cartas geográficas e locações de obras de engenharia.
+Art. 3º O engenheiro agrimensor e cartógrafo poderá atuar também no desempenho das atividades 1 a 18 do art. 5º, § 1º, da Resolução nº 1.073, de 2016, referentes a arruamentos, estradas e obras hidráulicas, em função estritamente do enfoque e do projeto pedagógico do curso, a critério da câmara especializada.
+
+Potenciais empregadores
+Portugal
+Empresas que recorrem a sistemas de informação geográfica, topografia, cartografia, cadastro, imagens de satélite, nomeadamente empresas de construção civil, na área do ambiente, transportes e navegação (marítima ou aérea), agricultura, florestas, pescas, minérios, energia, telefones, água, gás, etc. Autarquias, Comissões de Coordenação, Instituto Geográfico Português, Centro Nacional de Informação Geográfica, Instituto Nacional de Gestão Agrária, Forças Armadas e outras entidades do sector público.
+
+Brasil
+A Engenharia Cartográfica é uma atividade de interesse estatal. A DSG, a DHN, o IBGE e o INCRA são os órgãos da União que mais atuam neste ramo da Engenharia no Brasil. Também outras estatais de nível nacional, estadual ou municipal possuem este profissional em seus quadros.
+
+Atua em empresas privadas das áreas de topografia, cartografia, cadastro, construção civil, meio ambiente, transportes e navegação (marítima ou aérea), agricultura, florestas, pescas, minérios, energia etc.
+
+A Engenharia Cartográfica também é uma área oficial de Perícia, utilizada na solução de crimes relacionados à ocupação do solo, como em "grilagens", danos ambientais, invasões, etc.
+
+O egresso também pode atuar no ensino e pesquisa junto a instituições como INPE, INPA e Embrapa, bem como instituições de ensino superior.
+
+Ver também

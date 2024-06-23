@@ -1,0 +1,123 @@
+Imunologia
+Origem: Wikipédia, a enciclopédia livre.
+Imunologia é o ramo da biologia que estuda o sistema imunitário (ou imunológico) de todos os organismos.[1] Ele lida, entre outras coisas, com o funcionamento fisiológico do sistema imune de um indivíduo no estado sadio ou não, mal funcionamento do sistema imune em casos de doenças imunológicas (doenças autoimunes, hipersensitividade, deficiência imune rejeição pós enxerto); características físicas, químicas e fisiológicas dos componentes do sistema imune in vitro, in situ e in vivo. O ramo da imunologia que estuda a sua interação com o comportamento e o sistema neuroendócrino chama-se psiconeuroimunologia.
+
+
+Índice
+1	História
+2	Conceito
+3	Anticorpos
+4	Antígenos
+5	Outras Definições
+6	Ver também
+7	Referências
+8	Ligações externas
+História
+O conceito de Imunologia foi criado pelo biólogo Elie Metchnikoff em 1882. Após espetar uma larva transparente de estrela-do-mar com o acúleo de uma roseira, Metchnikoff verificou um acumulo de células cercando a ponta afiada, 24 horas após a injúria. Uma resposta activa (inexistente naquela época - ver Teoria dos Humores) dos organismos foi então proposta, baseada nas observações da Fagocitose (termo cunhado pelo próprio Metchnikoff). Esta atividade seria fundamental na manutenção da integridade dos organismos, sendo que a defesa aparece como um fenômeno secundário.
+
+A ideia de "balas mágicas" foi proposta pela primeira vez por Paul Ehrlich, que, no início do século XX, postulou que, se fosse possível um composto que visasse seletivamente um organismo causador de doenças, então uma toxina para esse organismo poderia ser entregue junto com o agente de seletividade. Ele e Élie Metchnikoff receberam o Prêmio Nobel de 1908 em Fisiologia ou Medicina por este trabalho, que levou a um tratamento eficaz contra a sífilis em 1910.
+
+Na década de 1970, o mieloma múltiplo do câncer de células B era conhecido. Entendeu-se que todas essas células B cancerosas produzem um único tipo de anticorpo (uma paraproteína ). Este foi utilizado para estudar a estrutura dos anticorpos, mas ainda não foi possível produzir anticorpos idênticos específicos para um determinado antígenio.[2]
+
+Em 1975, Georges Köhler e César Milstein conseguiram fazer fusões de linhas celulares de mieloma com células B para criar hibridomas que poderiam produzir anticorpos específicos para antígenos conhecidos e que fossem imortalizados. Eles dividiram o Prêmio Nobel de Fisiologia ou Medicina em 1984 pela descoberta.[3]
+
+Em 1988 Greg Winter e sua equipe foram pioneiros nas técnicas para humanizar os anticorpos monoclonais, eliminando as reações que muitos anticorpos monoclonais causaram em alguns pacientes.
+
+Em 2018 James P. Allison e Tasuku Honjo receberam o Prêmio Nobel de Fisiologia ou Medicina[4] por sua descoberta da terapia do câncer pela inibição da regulação imunológica negativa, por meio de anticorpos monoclonais que impedem as ligações inibitórias. Diversos anticorpos monoclonais foram então produzidos para impedir o término da resposta inflamatória e prolongar o ataque ao câncer, como por exemplo a expressão PD1 da célula CD8+ que quando liga ao epítopo PD-L1 da célula, faz cessar o ataque da CD8+.
+
+Conceito
+As células responsáveis pela imunidade são os linfócitos e os fagócitos. Os linfócitos podem apresentar-se como linfócitos T ou linfócitos B (estes são responsáveis pela produção de anticorpos), as células T citotóxicas (CD8) destroem células infectadas por vírus e os linfócitos T auxiliares (CD4) coordenam as respostas imunes. Além das defesas internas existem também defesas externas (Ex: pele – barreira física, ácidos gordos e comensais). As defesas externas são a primeira barreira contra muitos organismos agressores. No entanto, muitos conseguem penetrar, activando assim as defesas internas do organismo. O sistema imune pode sofrer um desequilíbrio que se apresenta como imunodeficiência, hipersensibilidade ou doença auto-imune.
+
+As respostas imunes podem ser adaptativas ou inatas: as respostas adaptativas reagem melhor cada vez que encontram um determinado patógeno e a resposta inata, ao contrário da adaptativa, sempre dá a mesma resposta mesmo quando é exposta várias vezes ao patógeno. Os fagócitos coordenam as respostas inatas e os linfócitos coordenam as respostas imunes adaptativas.
+
+Os principais componentes do sistema imune são as células T, células B, linfócitos grandes granulares (células NK), fagócitos mononucleares (monócitos), neutrófilos, eosinófilos, basófilos, mastócitos (denominação dos basófilos infundidos nos tecidos), plaquetas e células teciduais.
+
+Os linfócitos T e B são responsáveis pelo reconhecimento específico dos antigénios. Cada célula B está geneticamente programada para codificar um receptor de superfície específico para um determinado antígeno, os linfócitos T constituem várias subpopulações diferentes com uma variedade de funções.
+
+As células citotóxicas reconhecem e destroem outras células que se tornaram infectadas. Essas células são: Ta¹, Ta², Tc e LGG. As células auxiliares que controlam a inflamação são: basófilos, mastócitos e plaquetas. Os basófilos e mastócitos possuem granulosidades no seu citoplasma e uma série de mediadores que provocam inflamação nos tecidos circundantes. As plaquetas também podem liberar mediadores inflamatórios quando activadas durante a trombogénese ou por complexos antígeno-anticorpo.
+
+As moléculas envolvidas no desenvolvimento da resposta imune compreendem os anticorpos e as citosinas, produzidas pelos linfócitos, e uma ampla variedade de outras moléculas conhecidas como proteínas de fase aguda, porque as suas concentrações séricas elevam-se rapidamente durante a infecção. As moléculas que promovem a fagocitose são conhecidas como opsoninas.
+
+O sistema complementar é um conjunto de aproximadamente 20 proteína séricacieínas séricas cuja principal função é o controle do processo inflamatório. As proteínas deste sistema promovem a fagocitose, controlam a inflamação e interagem com os anticorpos na resposta imune.
+
+As citosinas são moléculas diversas que fornecem sinais para os linfócitos, fagócitos e outras células do organismo. Todas as citosinas são proteínas ou péptidos, algumas contendo glicoproteínas.
+
+Os principais grupos de citosinas são: interferons (IFNs) (limitam a propagação de certas infecções virais), interleucinas (ILs) (a maioria delas está envolvida na indução de divisão e diferenciação de outras células), fatores estimuladores de colónias (CSFs) (divisão e diferenciação das células-tronco na medula óssea e dos precursores dos leucócitos sanguíneos), quimiocinas (direcciona a movimentação das células pelo organismo) e outras citosinas (são particularmente importantes nas reacções inflamatórias e citotóxicas).
+
+Anticorpos
+Ver artigo principal: Anticorpos.
+Os anticorpos são glicoproteínas produzidas quando a célula-mestra reconhece a presença de um antígeno. Essa, um linfócito, é um tipo de leucócito dividido em dois grupos que irão variar de acordo com a necessidade ou não da passagem pelo timo para a maturação.
+
+Linfoide, bilobado e esponjoso, o timo é um órgão situado acima do coração e logo atrás do esterno. Os linfócitos T precisam passar pelo timo e não formam anticorpos, mas atuam na imunidade celular. Os linfócitos B, por sua vez, não precisam passar pelo timo, e são responsáveis pela produção dos anticorpos conhecidos como circulantes, responsáveis pela imunidade humoral.
+
+As moléculas de anticorpos tem a forma de um Y e são constituídas de quatro cadeias de aminoácidos, sendo duas delas leves e curtas, e duas pesadas e longas, que são unidas por pontes dissulfídicas.
+
+A sequência de aminoácidos de um anticorpo é igual em todos eles, sendo variável somente em uma parte que irá determinar a especificidade desse anticorpo, representando ainda a região de combinação com os antígenos.
+
+Quando formado, o linfócito, mesmo imaturo, já apresenta os anticorpos específicos e, ao encontrar o antígeno específico para os anticorpos, ambos se unem. Neste processo, o linfócito é ativado e passa pela divisão e diferenciação.
+
+O linfócito é, então, multiplicado produzindo os plasmócitos e as células de memória. Enquanto os primeiros produzem os anticorpos circulantes, os últimos são responsáveis por circular secretando anticorpos.
+
+Os principais anticorpos produzidos no corpo humano são:
+
+IgG: anticorpo mais abundante do plasma, o único capaz de atravessar a placenta, neutralização de toxinas, predomina nas respostas secundárias. (Anticorpo de memória);
+IgA: presente na lágrima, na saliva, nas secreções do trato digestivo, respiratório e urogenital, assim como no leite materno;
+IgM: é o primeiro anticorpo a ser produzido, sendo muito importante na neutralização de agentes infecciosos, resposta imuno aguda (primária);
+IgE: participa da defesa contra parasitas, especialmente contra helmintos, sendo responsável também pelo desencadeamento de alergias;
+IgD: anticorpo menos abundante do plasma, tem suas funções pouco conhecidas.
+Anticorpos monoclonais
+
+Em 1975, Georges Kohler e Cesar Milstein planejaram um método para a preparação do anticorpo monoclonal (Ac mo) ou Monoclonal antibodies (mab or moAb), através da fusão da célula B ativada normal produtora de anticorpo com uma célula do mieloma (uma célula b plasmática cancerosa). Neste evento, produziram uma célula híbrida (hibridoma), que possuía as propriedades de crescimento imortal da célula do mieloma e secretava o Ac produzido pela célula B.
+
+Os clones resultantes das células do hibridoma que secretam grandes quantidades de Ac mo podem ser indefinidamente cultivadas. Os hibridomas de células B são produzidos utilizando polietilenoglicol (PEG) para fusionar as células do mieloma com as células B de animais que foram imunizados com o Ag, através do qual se deseja produzir os anticorpos. As células do mieloma contribuem para o crescimento imortal das células fusionadas, e as células B contribuem com a informação genética para a síntese do Ac específico de interesse.
+
+Os Ac mo são muito úteis como reagentes para diagnóstico, exames de imagem e procedimentos terapêuticos na clínica médica. Para diagnóstico, podem ser utilizados na detecção de gravidez, diagnóstico de numerosos microrganismos patogênicos, medidas de níveis sanguíneos de várias drogas, tipagem sanguínea, tipagem de antígenos de histocompatibilidade, caracterização fenotípica de diversos tipos celulares e detecção de antígenos produzidos por determinados tumores. Por exemplo, para esse propósito, Ac mo radiomarcados podem ser utilizados in vivo na detecção ou localização de antígenos tumorais, permitindo diagnósticos precoces de alguns tumores primários ou metastáticos nos pacientes. Na imunoterapia, o Ac mo específico para um determinado Ag tumoral de superfície, acoplado com um quimio ou radioterápico, pode ser potente agente terapêutico.
+
+Antígenos
+Ver artigo principal: Antígenos.
+Os antígenos são as substâncias que estimulam a produção dos anticorpos e, além disso, que reagem especificamente com eles.
+
+Essa substância pode ser uma proteína, um polissacarídeo ou um complexo que contenha as duas substâncias citadas. Os antígenos, normalmente, são os vírus, as bactérias, substâncias presentes na saliva de insetos inoculadas por suas picadas, ou ainda por porções de alimentos que não são totalmente digeridas. O reconhecimento do antígeno é a base principal de todas as respostas imunes adaptativas. O ponto essencial a ser considerado com relação ao antígeno é que a estrutura é a força iniciadora e condutora de todas as respostas imunes. O sistema imune evoluiu com a finalidade de reconhecer os antígenos e destruir e eliminar a sua fonte. Quando o antígeno é eliminado, o sistema imune é desligado.
+
+A seleção clonal envolve a proliferação de células que reconhecem um antígeno específico. Quando um antígeno se liga às poucas células que podem reconhecê-lo, estas são rapidamente induzidas a proliferar e em poucos dias existirá uma quantidade suficiente delas para elaborar uma resposta imune adequada.
+
+Quando os antígenos são macromoléculas estas possuem regiões específicas de ligação ao antígeno denominadas de determinantes antigênicos ou epítopos. A maioria dos linfócitos T reconhecem antígenos peptídicos que estão ligados e são apresentados pelas moléculas do complexo de Histocompatibilidade maior (MHC). Os linfócitos B usam os anticorpos ligados à membrana para reconhecer uma ampla variedade de antígenos, incluindo proteínas, polissacarídeos, lipídios.
+
+Os antígenos podem ser reconhecidas pelas células T, células B ou ambas através de receptores representados por anticorpo ou TCR (receptor de célula T) particular.
+
+Antígeno completo ou imunógeno: é capaz de ativar uma resposta imune;
+Antígeno incompleto: não é capaz de ativar uma resposta imune.
+Antígenos T-independentes.
+
+São aqueles que possuem a capacidade de estimular células B a produzirem anticorpos sem a necessidade da ativação da célula T auxiliar, que normalmente dá o segundo sinal para a deflagração da resposta imune (o primeiro sinal é dado pelo antígeno). Em geral são polímeros com numerosos determinantes antigênicos repetidos e não produzem memória imunológica.
+
+Interação antígeno-anticorpo
+
+Os antígenos possuem estruturas químicas que favorecem a complementaridade com o anticorpo, através de ligações não-covalentes. Essas interações são semelhantes ao que acontece com reações envolvendo enzimas. Portanto são reversíveis e possuem afinidades diferentes com diversas substâncias. Como um anticorpo pode se relacionar com antígenos com afinidades diversas, ele pode ligar-se com um que não seja o seu antígeno de melhor complementariedade através de ligações mais fracas com regiões semelhantes, mas não idênticas, àquele que o induziu. Essa ligação é chamada de reação cruzada.
+
+Superantígenos
+
+Normalmente um antígeno T-dependente é capaz de ativar apenas uma pequena fração de células T (ativação monoclonal ou oligoclonal). Porém, existem alguns antígenos que podem ativar vários clones de células T. Esses antígenos capazes de fazer uma ativação policlonal são chamados de superantígenos. Eles ligam-se fora da fenda de ligação do MHC e à cadeia β do TCR e respondem de modo forte. Essa superestimulação é responsável pela seleção negativa de alguns tipos de células T no Timo.
+
+Outras Definições
+Diferentes sistemas efectores estão disponíveis para controlar a enorme diversidade de patogenes.
+
+Neutralização - os anticorpos podem combater os patogenes simplesmente por se ligarem a eles;
+
+Fagocitose – internalização do material estranho, que sofre uma endocitose no fagossomo;
+
+Reações citotóxicas – são direcionadas contra células muito grandes para sofrerem fagocitose. As células de defesa direccionam os seus grânulos para a célula-alvo, as células-alvo serão lesadas em suas membranas externas pela perfurina. Algumas células citotóxicas também podem sinalizar para as células-alvo que então iniciam um processo de autodestruição, conhecido como apoptose.
+
+O processo de migração celular é controlado pelas quimiocinas na superfície do endotélio das vénulas dos tecidos inflamados. As quimiocinas activam as células circulantes promovendo a sua ligação ao endotélio e iniciando a migração dos leucócitos através deste.
+
+Quando o sistema imune se defronta com um patogene extracelular o seu objectivo é destruí-lo e neutralizar os seus produtos. Nas respostas intracelulares, os linfócitos T destroem a célula infectada ou determinam que a própria célula parasitada destrua o parasita por si própria.
+
+O princípio da vacinação está baseado em dois elementos fundamentais da resposta imune adaptativa: memória e especificidade. O objectivo no desenvolvimento da vacina é alterar o patogene ou as suas toxinas de tal modo que eles se tornem inócuos sem perderem a antigenicidade.
+
+O sistema imune pode sofrer um desequilíbrio, esta falência do sistema imune pode ocasionar:
+
+Imunodeficiência - resposta imune ineficiente;
+
+Hipersensibilidade - resposta imune exagerada; Doenças auto-imunes – reacção inadequada aos antigénios autólogos.
+
+Inflamação - Termo utilizado para referir-se à série de eventos que acompanham uma resposta imune e apresentam diversas características, incluindo edema local, eritema (devido à dilatação capilar), dor e calor. Essas características constituem a consequência coletiva da liberação de citocinas, quimiocinas e aminas vasoativas dos macrófagos e mastócitos em resposta ao encontro inicial com um patógeno. Os subprodutos da ativação do complemento também contribuem para a resposta inflamatória, promovendo a quimiotaxia dos neutrófilos, bem como a ativação dos mastócitos. Todos esses mediadores inflamatórios ajudam a recrutar os neutrófilos e as proteínas plasmáticas ao local de infecção, induzindo vasodilatação dos vasos sanguíneos próximos ao local de infecção e atuando como fatores quimiotáticos para os neutrófilos do sangue circulante. As células e o líquido adicionais que se acumulam no local de uma infecção (e que contribuem para o edema observado), o aumento da vermelhidão da pele na área e a hipersensibilidade associada constituem a reação inflamatória clássica.[5]

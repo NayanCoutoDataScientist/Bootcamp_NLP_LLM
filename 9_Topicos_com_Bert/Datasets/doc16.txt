@@ -1,0 +1,174 @@
+Engenharia elétrica
+Origem: Wikipédia, a enciclopédia livre.
+
+Exemplo: sistemas elétricos de potência.
+Engenharia elétrica é o ramo da engenharia que trabalha com os estudos e aplicações da eletricidade, eletromagnetismo e eletrônica. Este setor surgiu em meados do século XIX quando da comercialização, da distribuição e utilização da energia elétrica.
+
+Nos Estados Unidos, a engenharia elétrica é considerada para lidar com os problemas associados com sistemas de energia elétrica e sistemas eletrônicos, sendo que as principais instituições, como o Instituto de Tecnologia de Massachusetts, Instituto de Tecnologia da Califórnia, Universidade Stanford e Universidade de Michigan, abordam sistemas elétricos, eletrônica, micro-eletrônica ou de comunicações de forma integrada à engenharia elétrica. Nos restantes países da América não é diferente. No Brasil, por exemplo, a eletrônica em alguns cursos corresponde à maior parte dos conteúdos abordados durante a graduação em engenharia elétrica. Sendo assim, não ocorre a distinção entre engenharia elétrica e engenharia eletrônica, sendo consideradas um curso comum.
+
+Na Europa, geralmente são ofertados cursos de engenharia eletrotécnica e eletrônica separadamente, onde o primeiro é voltado à sistemas de energia elétrica, e o segundo apresenta maior ênfase nos sistemas eletrônicos.[1] Outros cursos superiores relacionados com eletrônica são: Engenharia Eletrônica e de Telecomunicações, Engenharia de Sistemas e Comunicações, Engenharia Informática, Engenharia Informática e de Computadores, entre outras.[2]
+
+No Brasil, a engenharia elétrica é geralmente cursada em cinco anos, e assim como nos EUA, incorpora a engenharia eletrônica e telecomunicações, tal como é reconhecido pelo Ministério da Educação e pelo Conselho Federal de Engenharia e Agronomia.[3] Frequentemente estão presentes disciplinas que podem sobrepor o processamento de energia e o processamento de informações, como por exemplo, eletrônica industrial.
+
+
+Índice
+1	História
+1.1	Século XIX
+1.2	Desenvolvimento dos componentes eletrônicos e da eletrotécnica
+2	Especializações
+3	Matérias estudadas
+4	Subdisciplinas
+4.1	Engenharia eletrotécnica
+4.2	Engenharia eletrônica
+4.3	Engenharia de computação
+4.4	Controle e automação
+4.5	Instrumentação
+4.6	Telecomunicação
+5	O profissional
+5.1	Regulamentação da profissão no Brasil
+5.2	Regulamentação da profissão em Portugal
+6	Ver também
+7	Referências
+8	Bibliografia
+História
+
+As descobertas de Michael Faraday iniciando o desenvolvimento do motor elétrico.
+A eletricidade ficou sujeita ao interesse científico desde o final do século XVII. O primeiro engenheiro eletricista foi provavelmente William Gilbert, inventor do Versório: uma máquina que detectava a presença de objetos com cargas estáticas. Ele também foi o primeiro a desenhar uma explícita distinção entre o magnetismo e a eletricidade estática e é de seu mérito a estabilização do termo eletricidade.[4] Em 1775, Alessandro Volta concebeu em experiências científicas o eletróforo, uma máquina que produz uma carga elétrica estática, e em 1800, Volta desenvolveu a pilha voltaica, um precursor da bateria elétrica.[5]
+
+Século XIX
+A partir do início do século XIX as pesquisas sobre eletricidade intensificaram-se. O desenvolvimento notável desse século pode ser ilustrado pelos trabalhos de Georg Ohm, que em 1827 quantificou a relação entre a corrente elétrica e a diferença de potencial em um condutor elétrico; por Michael Faraday, que em 1831 descobriu a indução eletromagnética; e James Clerk Maxwell, que em 1873 publicou a unificação das equações de Maxwell sobre eletricidade e magnetismo em sua tese Eletricidade e Magnetismo.[6]
+
+Começando em 1830, o esforço foi aplicar a eletricidade em utilizações práticas, como o telégrafo. Pelo final do século XIX o mundo tinha sido alterado eternamente pela possibilidade da ágil comunicação com o desenvolvimento da engenharia de linhas térreas, com os cabos submarinos e com o telégrafo sem fio (1890).
+
+As aplicações e os avanços em várias áreas criou a necessidade de melhorar os padrões de medida. Isto conduziu à padronização de unidades como o volt, ampere, coulomb, ohm, farad e henry. Isso foi obtido pela conferência internacional de Chicago em 1893.[7] A publicação destes padrões formavam a base dos futuros avanços na padronização de diversas indústrias e em muitos países imediatamente reconhecidos em normas nas legislações pertinentes.[8]
+
+
+Thomas Edison construiu a primeira linha do mundo de suprimento de energia elétrica em larga escala.
+Durante estes anos, o estudo da eletricidade foi pela maioria considerada como um sub-campo da física até que em 1885 as universidades e os institutos tecnológicos como o Instituto de Tecnologia de Massachusetts (MIT) e a Universidade Cornell iniciou a oferta de cursos de graduação em engenharia elétrica. A Universidade Técnica de Darmstadt fundou o primeiro departamento de engenharia elétrica do mundo em 1882. Neste mesmo ano, subordinado pelo professor Charles Cross do MIT começou a oferecer a primeira opção de curso em engenharia elétrica dentro do departamento de física. [9] Em 1883, a Universidade Técnica de Darmstadt e a Universidade Cornell introduziu mundialmente os primeiros cursos de bacharelado em engenharia elétrica e em 1885 a University College London fundou o primeiro magistério de engenharia elétrica na Grã-Bretanha.[10] A Universidade de Missouri estabeleceu o primeiro departamento de engenharia elétrica nos Estados Unidos da América em 1886.[11] Depois outras instituições implementaram o curso de engenharia, como a Cornell e o Instituto de Tecnologia da Geórgia em Atlanta, na Geórgia.
+
+Durante estas décadas a aplicação da engenharia elétrica melhorou significativamente. Em 1882, Thomas Edison apresentou o primeiro sistema de transmissão de energia elétrica do mundo que provia 110 volts de corrente contínua a 59 moradores na Ilha de Manhattan em Nova Iorque. Em 1884, Charles Algernon Parsons inventou a turbina a vapor. As turbinas hoje fornecem cerca de 80% da energia elétrica do mundo, de diversas fontes caloríficas. O sistema de energia por corrente alternada desenvolveu rapidamente depois de 1886 com a projeção do transformador (pela possibilidade de aumentar e diminuir a diferença de potencial em longas distâncias) e dos motores a corrente alternada, abrangendo independentemente os motores de indução por Galileo Ferraris e Nikola Tesla, além do sistema trifásico inventado por Mikhail Dolivo-Dobrovolsky e Charles Eugene Lancelot Brown, sendo mais prático e eficiente. A difusão da corrente alternada ocasionou o que foi denominado Guerra das Correntes entre os sistemas de transmissão C.A. e C.C., sendo a C.A. adotado como padrão internacional.[12]
+
+Desenvolvimento dos componentes eletrônicos e da eletrotécnica
+Durante a invenção da rádio, muitos cientistas e inventores contribuíram para a comunicação via rádio na eletrônica. Numa experiência clássica de física em 1888, Heinrich Hertz transmitiu ondas de rádio com um transmissor por arco elétrico usando simples dispositivos elétricos.[13] O trabalho matemático de James Clerk Maxwell durante a década de 1850 tinha apresentado a possibilidade de existirem ondas de rádio, porém, Heinrich Hertz foi o primeiro a demonstrar a sua existência em 1888.
+
+
+Guglielmo Marconi é conhecido pelo seu trabalho pioneiro em transmissão de rádio a grandes distâncias.
+Em 1897, Karl Ferdinand Braun introduziu os tubos de raios catódicos como parte de um osciloscópio, uma tecnologia crucial para o desenvolvimento da televisão.[14] John Fleming inventou o primeiro tubo de rádio, o diodo, em 1904. Dois anos depois Robert von Lieben e Lee De Forest desenvolveu de forma independente o tubo amplificador, chamado de triodo.[15] Em 1895, Guglielmo Marconi aplicou os métodos de Hertz em sistemas sem fios. Logo, enviou estas ondas a uma distância de milha e meia. Em dezembro de 1901 descobriu que as ondas enviadas não eram afetadas pela curvatura da Terra. Depois, Marconi transmitiu ondas sobre o Atlântico entre a cidade de Poldhu, em Cornwall e St. John's, em Newfoundland à distância de 2 100 milhas (3 400 km).[16] Em 1920, Albert Hull desenvolveu o magnetron que conduziu finalmente ao desenvolvimento do forno micro-ondas em 1946 por Percy Spencer.[17][18] Em 1934, o exército britânico desenvolveu em pouco tempo a tecnologia para o radar (também usado no magnetron) sob a coordenação do Dr.Wimperis, culminando em agosto de 1936 na primeira operação na estação de radar em Bawdsey.[19]
+
+Em 1941, Konrad Zuse apresentou o Z3, o primeiro computador integralmente automático e programável utilizando componentes eletromecânicos. Em 1943, Tommy Flowers projetou e construiu o Colossus (computador), o primeiro computador completamente eletrônico, digital e programável.[20] Em 1946, com o ENIAC (Electronic Numerical Integrator and Computer) de John Presper Eckert e John Mauchly resulta o começo da era da computação. A performance aritmética destas máquinas possibilitou aos engenheiros desenvolverem integralmente novas tecnologias, incluindo o programa Apollo que culminou na alunissagem.[21]
+
+Especializações
+A Engenharia Elétrica divide-se nas seguintes áreas de especialização:
+
+Sistemas de energia elétrica ou sistemas de potência - estudos de geração, transmissão e distribuição de energia elétrica; planejamento, confiabilidade, estabilidade e proteção de sistemas elétricos; fontes renováveis de energia e utilização de técnicas computacionais aplicadas a sistemas de potência;
+Sistemas de eletrônica de potência - estudos de dispositivos eletrônicos de potência, fontes, partida de motores, simulação digital de máquinas e conversores e cargas elétricas especiais;
+Sistemas de controle e automação - estudos de controle eletrônico de processos industriais, máquinas eletromecânicas automatizadas, sistemas para automação industrial, acionamentos, controles adaptativos e não-lineares;
+Sistemas de eletrônica/eletrónica - desenvolvimento de circuitos eletrônicos para a aquisição de dados como temperatura, umidade, pressão, entre outros e transmissão de dados por radiofrequência, etc;
+Sistemas de computação - estudos, fabricação e testes de circuitos integrados - C.I., microeletrônica para sistemas de computação, processamento de sinais digitais, hardware, inteligência computacional, entre outros;
+Sistemas de telecomunicações - estudos de sistemas de áudio e vídeo, antenas e propagação de ondas eletromagnéticas, micro-ondas, telefonia analógica e digital, fibras ópticas, processamento analógico e digital de sinais, telecomunicações por satélite e redes de comunicações;
+Sistemas biomédicos - especificar e gerir a utilização de equipamentos médico-assistenciais em hospitais, clínicas e laboratórios, além do projeto e construção desses mesmos tipos de aparelhos.
+Matérias estudadas
+Matemática e física são as matérias básicas. O aluno passa parte do tempo em laboratórios, em especial para aprender, conhecer e interpretar fenômenos elétricos, especialmente o eletromagnetismo, assunto ao qual é dedicada parte significativa do curso. Além de matemática e física também estuda química, sociologia, comunicação e expressão (português), e outras. Algumas faculdades dão maior ênfase a eletrotécnica ("altas tensões e baixas frequências") ou eletrônica ("baixas tensões e altas frequências").[22]
+
+Subdisciplinas
+Engenharia eletrotécnica
+Ver artigo principal: Engenharia eletrotécnica
+
+Sistema de distribuição de energia.
+A ênfase em eletrotécnica estuda o sistema de potência elétrica. O sistema de potência elétrica compreende a geração, transmissão, distribuição e utilização de energia elétrica; materiais e equipamentos elétricos, instalações elétricas prediais e industriais; acionamentos industriais; fontes alternativas de energia; instalação de sistemas de alta tensão; subestações, eficiência energética; sistemas de medição e controle. Além disso, geralmente a área de eletrotécnica abrange assuntos de outros ramos, como eletrônica analógica, digital e de potência.[23] É uma área fundamental para garantir o suprimento de energia elétrica para todos os setores.[24]
+
+Engenharia eletrônica
+Ver artigo principal: Engenharia eletrônica
+A diferença entre os termos eletricidade e eletrônica está na natureza dos elementos. A eletricidade trabalha com elementos chamados passivos, os resistores, os indutores, os condensadores. Estes elementos também podem ser chamados clássicos, porque já eram conhecidos desde os primeiros estudos modernos sobre eletricidade.[25]
+
+A engenharia eletrônica surgiu com a invenção da válvula. Porém, tomou impulso em 1947 com a chegada do transístor, dando à eletrônica o seu maior impulso. O transistor juntamente com o diodo são classificados como dispositivos de estado sólido. Posteriormente surgiram outros elementos eletrônicos como transistores de potência, tiristores e TRIACs.[26]
+
+A eletrônica digital surgiu quando foi possível aplicar a teoria da lógica digital (que define apenas dois estados, certo/errado; falso ou verdadeiro, 0 ou 1, ligado ou desligado, e está já existia há mais de 200 anos) em equipamentos compactos. Os primeiros computadores eram mecânicos, o que os tornava grandes e eram impraticáveis para desenvolvimento em larga escala. Os primeiros computadores a válvula diminuíram em tamanho, porém, continuaram grandes, caros e complicados. A eletrônica digital permitiu a miniaturização dos circuitos, a diminuição do consumo de energia elétrica[27] e o aumento na velocidade do processamento das informações.
+
+A grande vantagem da eletrônica é a de que permite que, equipamentos, máquinas e dispositivos respondam mais rápido e com maior eficiência energética:
+
+Eletrônica analógica;
+Eletrônica digital;
+Eletrônica de potência (também conhecida como eletrônica industrial);
+Máquinas e equipamentos eletrônicos;
+Sistemas de medição e controle eletrônico.
+Engenharia de computação
+Ver artigo principal: Engenharia de computação
+
+Os supercomputadores são utilizados em setores diversos como a biologia computacional e nos sistemas de informação geográfica.
+O ensino da engenharia elétrica passou por drásticas mudanças nas últimas décadas. Muitos departamentos são conhecidos, agora, como departamento de Engenharia Elétrica e Computação, enfatizando a rápida mudança promovida pelos computadores, que ocupam uma posição de destaque na sociedade e educação modernas. Tornaram-se equipamentos comuns e estão ajudando a alterar os caminhos da pesquisa, desenvolvimento, produção, negócios e entretenimento. O cientista, engenheiro, médico, professor - quase todos beneficiam da capacidade dos computadores armazenarem grandes quantidades de informação e as processar num curto espaço de tempo. A internet, rede de comunicação mundial por computador, é essencial aos negócios, à educação e às ciências.
+
+Três ciências estudam sistemas computacionais: ciências da computação, sistemas de informação e engenharia de computação. A engenharia de computação cresceu tão vastamente que acabou se separando da engenharia elétrica, embora em algumas escolas de engenharia, ela ainda a integre.
+
+A engenharia de computação tem como objetivo o estudo e projeto de sistemas de computação, tanto nos aspectos de hardware como de software. Um sistema de computação é todo e qualquer dispositivo eletrônico que responde à ação de um programa, bem como às suas interligações.
+
+O estudo da engenharia de computação tem, portanto, grande ênfase em microeletrônica e eletrônica digital, microprocessadores, arquitetura de computadores, sistemas operacionais, redes de computadores, sistemas embutidos, engenharia de software e processamento digital de sinais. Embora os sistemas de computação possam ser utilizados para controlar sistemas de potência ou máquinas elétricas, em geral, na engenharia de computação essas disciplinas não são estudadas.
+
+O computador é o sistema de computação mais conhecido. Mas o curso de engenharia de computação não tem como foco o desenvolvimento de computadores de uso pessoal e sim de sistemas de computação em geral. Embora seja o mais conhecido, o computador representa apenas 20% de todos os sistemas de computação do mundo, sendo os outros 80% conhecidos como "Sistemas Embutidos" por serem sistemas de computação que fazem parte de um sistema maior, como: computadores de bordo de aeronaves e navios e sistemas de monitorização e controle de usinas e fábricas industriais. Grande parte da electro-eletrônica de hoje são sistemas de computação, pois possuem microprocessadores, firmware e software avançados: TVs, celulares, microondas, geladeiras, etc..
+
+Em Portugal, o curso é conhecido como engenharia eletrotécnica e de computadores. No Brasil o curso é conhecido como engenharia de computação. Não deve confundir-se com engenharia informática, que é o nome normalmente dado em Portugal e países de língua espanhola a cursos de ciências de computação.
+
+Áreas de atuação:
+
+Indústria de manufatura de eletrônicos;
+Empresas de software;
+Empresas de telecomunicações.
+Especialidades:
+
+VLSI e manufatura de circuitos integrados;
+Sistemas embutidos;
+FPGA;
+Redes de computadores;
+Arquitetura de computadores.
+Engenharia de computação vs engenharia eletrônica: São duas especialidades da engenharia elétrica. A grande diferença é que a engenharia de computação não estuda eletrônica de potência (industrial) nem máquinas elétricas, tendo um aprofundamento maior em arquitetura de computadores, microprocessadores, redes de computadores e desenvolvimento de software.
+
+Engenharia de computação vs ciência de computação A engenharia de computação é um curso mais longo e com carga horária maior em matérias básicas, principalmente em física e eletro-magnetismo. Na ciência de computação não é comum o estudo de circuitos elétricos, eletrônica ou sistemas de controle, por exemplo. Por outro lado a ciência de computação estuda mais profundamente o ciclo de desenvolvimento de softwares, algoritmos, teoria da computação e banco de dados.
+
+Controle e automação
+Ver artigo principal: Engenharia de controle e automação
+A engenharia de controle e automação tem como objetivo desenvolver máquinas eletromecânicas para automatizar processos industriais, e controladores que melhorem o desempenho de sistemas dinâmicos para trabalharem de maneira auto-regulada ou auto-gerenciada.
+
+Para alcançar este objetivo é necessário realizar o projeto de automação. Primeiro identificando o sistema que se deseja automatizar ou controlar. Depois disso, deve-se modelar matematicamente este sistema, além de construir fisicamente as máquinas e os controladores. Por fim, ajusta-se e calibra-se o sistema, definindo os parâmetros de operação e manutenção.
+
+É dada ênfase a alguns conhecimentos de engenharia elétrica, mecânica e computação para aplicações em: projeto de máquinas, controle de processos industriais, automação da manufatura, controle de servomecanismo (robôs e manipuladores), automação de serviços (predial, bancário, hospitalar), controle embutido (metrô, aviões, foguetes) e outros.
+
+Instrumentação
+Ver artigo principal: Instrumentação industrial
+
+Os instrumentos aeronáuticos fornecem as ferramentas para os pilotos controlarem analiticamente os aviões.
+Os projetos de instrumentação industrial trata com variáveis como pressão,nível, temperatura, entre outras.[28] O projeto na instrumentação, requere como tal um bom entendimento de física que propriamente amplia além das teorias do eletromagnetismo. Por exemplo, os instrumentos de voo medem variáveis como a velocidade do vento e de altitude para permitir aos pilotos, o controle do avião de forma analítica. Semelhantemente, os termopares utilizam o efeito Peltier-Seebeck para medir a diferença de temperatura entre dois pontos.[29]
+
+Telecomunicação
+Ver artigo principal: Engenharia de telecomunicações
+Na habilitação em telecomunicação o engenheiro deve projetar sistemas que, interligados, transmitem informação para diversos pontos. As informações podem ser áudio (voz), imagem (vídeo) ou dados. Os meios em que serão transmitidas são os mais variados: pelo ar (por ondas eletromagnéticas via radiofrequência ou micro-ondas), via cabos metálicos, fibra óptica (sinais luminosos) e até através de linhas de energia elétrica.
+
+Telecomunicação é a transmissão, emissão ou recepção, por fio, radioelectricidade, meios ópticos ou qualquer outro processo eletromagnético, de símbolos, caracteres, sinais, escritos, imagens, sons ou informações de qualquer natureza.
+
+Estação de telecomunicações é o conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de telecomunicação, seus acessórios e periféricos, e, quando for o caso, as instalações que os abrigam e complementam, inclusive terminais portáteis.
+
+O profissional
+O engenheiro eletricista é o profissional dedicado ao desenvolvimento e à aplicação de um conjunto de conhecimentos científicos necessários à pesquisa, ao projeto e à implementação de sistemas diversos utilizados para efetuar o processamento da energia elétrica e da informação na forma de sinais elétricos digitais e analógicos. Nesta prática, são considerados os aspectos de qualidade, confiabilidade, custo e segurança, bem como os de natureza ecológica e ética profissional.[30]
+
+O campo de trabalho é vasto e inclui empresas de energia elétrica e telecomunicações, escritórios de projetos e consultoria, firmas de montagem e manutenção de instalações elétricas e de telecomunicações, indústrias diversas e empresas comerciais de pequeno e grande porte, manutenção de equipamentos e componentes eletro-eletrônicos, hospitais, empresas de radiodifusão, informática etc.[31][32]
+
+As perspectivas quanto ao progresso do curso são boas e tendem a uma melhoria das oportunidades de trabalho, dada a grande demanda por serviços nessas áreas e aos grandes investimentos, públicos e privados, que serão feitos nos próximos anos, no campo da Engenharia Elétrica.[33]
+
+Regulamentação da profissão no Brasil
+No Brasil é considerado engenheiro eletricista quem for formado em engenharia elétrica, porém para poder exercer a profissão é necessário registro no sistema do CREA (Conselho Regional de Engenharia e Agronomia) do estado onde atua.[34]
+
+No artigo 55 da lei nº 5.194 de 1966, é definido como infração o engenheiro que exerça atividade profissional sem registro no CREA do estado em que atua, com penalidade prevista na alínea “b” do artigo 73 da mesma lei.[35]
+
+Dia do Engenheiro Eletricista no Brasil
+Comemora-se no Brasil em 23 de novembro o Dia do Engenheiro Eletricista, data em que, no ano de 1913, foi fundado o Instituto Eletrotécnico de Itajubá. Várias outras boas escolas de engenharia elétrica foram criadas posteriormente, a maioria das vezes utilizando-se do conhecimento, do exemplo e até dos recursos humanos formados na Escola de Itajubá. Decretado pela Lei Nº 12.074, de 29 de Outubro de 2009.[36]
+
+Piso Salarial
+A lei n.º 4950-A/66 fixa o piso salarial do profissional de engenharia, estabelecendo valor do menor salário devido ao profissional.[37]
+
+Ao longo dos anos muito se discutiu se a legislação foi criada para estabelecer piso salarial ou jornada de trabalho. No entanto, a polêmica foi pacificada com a publicação da Súmula 370 do Colendo Superior do Trabalho, cujo entendimento é que a lei nº 4.950-A/66 foi criada para fixar o piso salarial e não jornada de trabalho.
+
+Logo, o salário mínimo profissional equivale a 8,5 salários mínimos para uma jornada de trabalho de 8 horas.
+
+Regulamentação da profissão em Portugal
+Em Portugal, pode exercer a profissão de engenheiro eletrotécnico, um diplomado num curso de licenciatura pré-Bolonha ou de mestrado em engenharia eletrotécnica, eletrónica, de telecomunicações, acreditado pela Ordem dos Engenheiros.[38]
+
+Os diplomados em cursos de bacharelato ou de licenciatura pós-Bolonha em ciências de engenharia ou engenharia elétrica, conforme a especialidade do curso, podem exercer a profissão de engenheiro técnico de eletrónica e de telecomunicações ou de engenheiro técnico de energia e sistemas de potência, desde que estejam inscritos na Associação Nacional dos Engenheiros Técnicos.[39]

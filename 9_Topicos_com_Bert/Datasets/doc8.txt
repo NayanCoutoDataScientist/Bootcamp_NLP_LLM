@@ -1,0 +1,107 @@
+Informática médica
+Origem: Wikipédia, a enciclopédia livre.
+
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Abril de 2016)
+Informática médica, segundo Blois & Shortliffe, é o campo de estudo relacionado à vasta gama de recursos que podem ser aplicados no gerenciamento e utilização da informação biomédica, incluindo a computação médica e o próprio estudo da natureza da informação médica. É um campo multidisciplinar.[1]
+
+Se biologia significa literalmente 'o estudo da vida', e patologia significa 'o estudo da doença', então informática médica significa o 'estudo da informação na prestação de cuidados de saúde'. É o estudo racional da forma como pensamos os pacientes e da forma como são definidos, selecionados e evoluem os tratamentos. É o estudo da forma como o conhecimento médico é criado, moldado, partilhado e aplicado. Em última análise, é o estudo de como nos organizamos na criação e funcionamento diário das organização de prestação de cuidados de saúde. (explicação sugerida por Enrico Coiera)
+
+As principais áreas de atuação são:
+
+Sistema de informação em saúde
+Prontuário eletrônico do Paciente
+Telemedicina
+Sistema de apoio à decisão clínicos
+Processamento de sinais Biológicos
+Processamento de Imagens Médicas
+Internet em saúde
+Padronização da informação em saúde
+Mineração de dados em informação médica
+Educação médica
+Avaliação de sistemas de informação
+Segurança informática em Saúde
+
+Índice
+1	História da Informática Médica no Brasil
+2	Vantagens da inovação na área da informática médica
+3	A informática médica e a pandemia do Covid-19
+4	Tipos de tecnologia do ramo da informática médica
+4.1	Internet das coisas (IOT)
+4.2	Inteligência artificial
+5	Os diversos processos dentro e fora dos consultórios
+5.1	Transformação Digital
+5.2	Lei Geral de Proteção aos Dados Pessoais (LGPD)
+5.3	Automação de Processos
+5.4	Experiência do Usuário
+5.5	Atendimento Remoto
+5.6	Conteúdo Audiovisual
+5.7	Marketing Médico
+6	Ver também
+7	Referências
+8	Ligações externas
+História da Informática Médica no Brasil
+No início da década de 1970, depois de já terem sido observados diversos investimentos na informática médica nos EUA e na Europa, tivemos o primeiro passo desses estudos em território brasileiro. Tanto o Hospital da Universidade Federal do Rio de Janeiro (UFRJ), quanto o Instituto do Coração e nos Hospitais das Clínicas da USP em São Paulo e Ribeirão Preto começaram juntos a utilizar a tecnologia informática para auxiliar na medicina. Luiz Carlos Lobo, professor da UFRJ, trouxe para o Brasil o Sistema de Multiprogramação do Hospital Geral de Massachusetts (MUMPS) e criou o Núcleo de Tecnologia de Educação em Saúde, onde foi feita a primeira utilização de minicomputadores digitais PDP-11 em sistemas de apoio ao ensino.
+
+Com isso, ainda no hospital da UFRJ, foram desenvolvidos os primeiros sistemas baseados em microcomputadores e, no Instituto do Coração tivemos avanços após a importação de minicomputadores Hewlett-Packard, como a montagem, em 1976, dos primeiros sistemas de monitoração fisiológica digital e de apoio aos testes hemodinâmicos do Brasil, que deram origem à Coordenadoria de Informática Médica. Junto com as melhorias nessa área, em 1972, surgiram grupos biomédicos em Ribeirão Preto, como o Departamento de Fisiologia, onde Renato Sabbatini e seu grupo iniciaram estudos em aplicações de análise de dados fisiológicos e simulações aplicadas à pesquisa em banco de dados com as novas tecnologias da HP.
+
+Em 1986, foi alcançado o primeiro reconhecimento de grau de desenvolvimento nacional, por meio de um seminário de Informática em Saúde realizado em Brasília, proposto pelo Ministério da Saúde. E então, ainda nesse ano, durante o Primeiro Congresso Brasileiro de Informática em Saúde organizado pelo Dr. Renato Sabbatini, foi fundada a Sociedade Brasileira de Informática em Saúde. Além desse, o próximo marco nesse âmbito ainda em 1986, se deu pela publicação da revista na temática de Informática Médica com autoria de Renato Sabbatini e José Raimundo Sica, com título de "Revista Brasileira de Informática em Saúde", fazendo com que outras edições como essa continuassem a ser publicadas nos anos seguintes.[2]
+
+Vantagens da inovação na área da informática médica
+As inovações na área da saúde já são realidade e vem avançando cada dia mais com um impacto positivo. Essas novidades trazem consigo uma série de benefícios, tanto para os pacientes, quanto para os profissionais do setor.
+
+A seguir, algumas vantagens:[3][4]
+
+Integração das informações:
+É possível juntar todas as informações importantes sobre um paciente em um prontuário eletrônico, guardado na nuvem, de uma maneira que todas as pessoas envolvidas no seu tratamento tenham acesso a essas informações, até mesmo remotamente, otimizando o trabalho realizado pela equipe médica.
+
+Diagnósticos mais precisos:
+Com a melhora de máquinas e equipamentos utilizados em exames, principalmente os de imagem, é mais fácil de se obter um diagnóstico, além de detectar doenças mais graves ainda em estágio inicial, aumentando significativamente a chance de sucesso nos tratamentos.
+
+Melhora de técnicas cirúrgicas:
+Novas ferramentas desenvolvidas e a utilização de robôs nas cirurgias proporcionam maior precisão e segurança ao cirurgião, além de um procedimento menos invasivo, tornando mais rápida a recuperação de pacientes.
+
+Redução de erros:
+Obtendo diagnósticos mais precisos e a melhora de técnicas cirúrgicas, a chance de existir algum erro durante o processo diminui bruscamente.
+
+Autonomia do paciente:
+Dispositivos e aplicativos têm sido desenvolvidos para auxiliar o monitoramento de doenças pelos pacientes em casa e facilitar o acompanhamento médico remoto.
+
+A informática médica e a pandemia do Covid-19
+Com o atual contexto da pandemia do covid-19 no mundo, o tema da informática médica torna-se um assunto a ser desenvolvido ainda mais. Entre algumas das áreas de atuação e até mesmo aplicações provenientes das áreas de estudo da informática médica podem e devem ser utilizadas como alternativas a essa pandemia. Entre eles podemos citar a telemedicina que utiliza recursos de telecomunicação e informática para realização de procedimentos diagnósticos a distância[5], e consultas médicas virtuais que garantem a permanência e não-violação da quarentena em tempos de covid-19, no que se refere à ocorrência de outras doenças que não o coronavírus.[6]
+
+Tipos de tecnologia do ramo da informática médica
+Internet das coisas (IOT)
+Entre as tecnologias inovadoras que já estão presentes em nossa realidade, a internet das coisas ou internet of things (IOT), possui uma gama de diversas aplicações no âmbito da medicina. Hospitais e empresas de tecnologia têm se unido para aplicar esse conceito para a evolução da medicina.
+
+Das diversas inovações que a IOT na área da medicina pode proporcionar, podemos citar: Registros digitais de exames, com aparelhos que geram dados digitalmente. O monitoramento contínuo inteligente de glicose, com equipamentos que monitoram níveis de glicose de diabéticos, instalações de leitos hospitalares inteligentes, entre outras inovações.
+
+A internet das coisas é um tema que se espera que seja ainda mais desenvolvido no futuro no ramo da medicina, visto que, com a constante evolução da tecnologia, aparelhos digitais tendem a ficarem ainda mais conectados, ajudando na captação de dados de pacientes e outras vantagens.[7]
+
+Inteligência artificial
+Com a explosão do big data, houve a necessidade e também a sede, por procurar alternativas e soluções que pudessem analisar essa vasta quantidade de dados. A área da medicina se utilizou da inteligência artificial, com computadores e algoritmos para analisar essa imensa quantidade de dados, afim de encontrar de maneira mais fácil, soluções para os mais diversos problemas nessa área.
+
+Utilizando a inteligência artificial e seus algoritmos, a captação e coleta de dados de pacientes, por exemplo, através de prontuários médicos eletrônicos, exames clínicos, ocorrem de maneira mais rápida e também, feita a etapa da análise de dados, retornam soluções em forma de diagnósticos para possíveis doenças e suas probabilidades de ocorrência.[8]
+
+Os diversos processos dentro e fora dos consultórios
+Existem vários métodos que podem ser utilizados para simplificar os processos nos consultórios, como simplificar a obtenção das informações dos pacientes e certificar a fluidez da comunicação. Alguns exemplos são:
+
+Transformação Digital
+A transformação digital, que é um processo no qual uma empresa assume posição como negócio digital, não é um termo novo. As startups que fazem a combinação de serviços médicos com tecnologias (healthtechs)  aparecem para transformar como os hospitais, médicos, consultórios e pacientes se relacionam entre si. Através de soluções tecnológicas, a automatização de processos, o aperfeiçoamento do modelo de negócios e o norteio de ações com foco na experiência do usuário, por exemplo, são possíveis.
+
+Lei Geral de Proteção aos Dados Pessoais (LGPD)
+A LGPD regulamenta a coleta e o tratamento das informações pessoais por empresas privadas e públicas. Um dos tópicos principais da medida fala sobre o armazenamento dos dados sensíveis, que podem acarretar em uma discriminação da pessoa, como por exemplo diagnósticos e doenças salvos em sistemas online. Por isso a implementação da LGPD, pois é preciso aplicar ferramentas com uma certificação de segurança eficaz para que haja a proteção de tais informações.
+
+Automação de Processos
+A tendência do setor de saúde é a otimização do dia a dia através da utilização de ferramentas e serviços, com o intuito de simplificar a administração do consultório ou da clínica e também de fornecer uma experiência diferenciada ao paciente. E já existem softwares completos que auxiliam nesses processos. Processos esses que fazem a análise do fluxo de dados, que cruzam informações, podendo realizar a gestão dos dados, prontuário eletrônico, serviços de finanças, marketing médico, telemedicina, agenda personalizada, e dentre outros métodos de relacionamento com pacientes.
+
+Experiência do Usuário
+É essencial melhorar os canais de comunicação do consultório para os dispositivos móveis, pois nos dias atuais, a maior parte da população realiza pesquisas sobre determinado assunto em seus smartphones. Com essa melhoria, é possível sustentar uma boa relação entre médico e paciente e também potencializar o negócio. Devido à pandemia do coronavírus, é importante que sejam realizados atendimentos a distância, garantindo uma melhor experiência aos usuários.
+
+Atendimento Remoto
+Em março de 2020 foi regulamentado, no setor da saúde, um recurso chamado telemedicina, devido à pandemia da Covid-19, como já foi dito em um parágrafo acima. Esse recurso consiste em consultas por chamadas de vídeos, através de plataformas próprias, que visam conservar o relacionamento próximo com o paciente, de uma maneira eficiente, segura e com privacidade para os usuários. Já existem plataformas gratuitas para todos os médicos do Brasil, utilizando de avançados protocolos de segurança já em conformidade com a Lei Geral De Proteção de Dados (LGPD).
+
+Conteúdo Audiovisual
+A utilização de vídeos é uma ferramenta relevante na hora de criar autoridade do profissional, educar, divulgar informações de qualidade e trazer segurança ao paciente, já que isso auxilia na credibilidade, no envolvimento com o público-alvo e na geração de confiança daqueles que estão sempre realizando pesquisas relacionados à saúde, principalmente quando com algum sintoma.
+
+Marketing Médico
+A estratégia do marketing médico ainda é pouco utilizada por médicos. A presença digital dos profissionais de saúde é bem importante para atrair, fidelizar e aproximar pacientes. Cada vez mais a população acessa a internet para encontrar explicações, conhecimentos e informações sobre saúde e, por isso, é indispensável poder contar com um posicionamento digital qualificado.[9]

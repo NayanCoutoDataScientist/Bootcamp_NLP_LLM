@@ -1,0 +1,67 @@
+Engenharia mecânica
+Origem: Wikipédia, a enciclopédia livre.
+
+Montagem de turbina a vapor, um exemplo de máquina construída com os recursos da engenharia mecânica
+A engenharia mecânica é o ramo da engenharia que aplica os princípios da engenharia, física e ciência dos materiais para a concepção, análise, fabricação e manutenção de sistemas mecânicos. É o ramo da engenharia que envolve a concepção, produção e operação de máquinas e ferramentas. É uma das mais antigas e amplas disciplinas de engenharia. Engenheiros mecânicos projetam e constroem motores, usinas de energia, entre outros.[1]
+
+A área de engenharia requer uma compreensão dos conceitos básicos, incluindo tecnologia mecânica, cinemática, termodinâmica, dinâmica de máquinas, teoria dos mecanismos, ciência dos materiais, análise estrutural, mecânica dos fluidos, conformação mecânica, vibrações mecânicas, potência motriz, motores de combustão, turbinas, motores a reação, processos de soldagem e eletricidade. Engenheiros mecânicos usam esses princípios fundamentais, juntamente com ferramentas como engenharia auxiliada por computador, e gestão do ciclo de vida do produto para projetar e analisar fábricas, equipamentos mecânicos, sistemas de aquecimento e refrigeração, sistemas de transporte, aeronaves, automóveis, embarcações, robótica, dispositivos médicos, armas e outros.[2]
+
+
+Engenheiros mecânicos projetam e constroem motores, usinas de energia etc.
+O surgimento da engenharia mecânica pode ser rastreado até há vários milhares de anos. Como um campo específico do conhecimento, no entanto, surgiu durante a revolução industrial da Europa do século XVIII. Como ciência, surgiu somente no século XIX, como resultado de desenvolvimentos no campo da física. O campo tem evoluído continuamente para incorporar os diversos avanços em tecnologia. Os engenheiros mecânicos de hoje estão buscando empreendimentos em áreas como robótica, nanotecnologia e fabricação aditiva. A engenharia mecânica sobrepõe-se com a engenharia aeroespacial, engenharia de controle e automação, engenharia civil, engenharia elétrica, engenharia de petróleo, engenharia de produção, engenharia química e outras disciplinas de engenharia para quantidades variadas. Engenheiros mecânicos também podem trabalhar no campo da engenharia biomédica, especificamente com biomecânica, fenômenos de transporte e modelagem.
+
+
+Índice
+1	Ciências mecânicas
+1.1	Mecânica de Corpos Rígidos
+1.2	Dinâmica
+1.3	Controle
+1.4	Mecânica de Corpos Deformáveis ou Mecânica dos Sólidos
+1.5	Mecânica dos fluidos
+1.6	Termodinâmica
+1.7	Transferência de calor
+2	Referências
+3	Bibliografia
+4	Ver também
+Ciências mecânicas
+A engenharia mecânica é didaticamente dividida em áreas que frequentemente se entrelaçam nos diversos ramos de atuação. Destas áreas, aquelas mais próximas à física são chamadas ciências mecânicas e servem de base teórica às áreas de direta aplicação de engenharia.[3] As ciências mecânicas pouco abordam aspectos tecnológicos e práticos: tratam de conceitos básicos bem estabelecidos e que muito dificilmente se tornam ultrapassados.
+
+
+Quantidade de movimento transferida através de pêndulos, objeto de estudo da "mecânica geral"
+Mecânica de Corpos Rígidos
+A mecânica de corpos rígidos engloba áreas fundamentais da física, podendo ser separada em estática e dinâmica. Suas abordagens mais conhecidas são: clássica, de Lagrange e a dinâmica dos corpos rígidos.[4] Ainda que a mecânica do corpo rígido inclua teorias fundamentais de dinâmica, teorias mais sofisticadas a respeito fogem ao tipo de abordagem, que geralmente trata de corpos inflexíveis e é pouco viável para análise de sistemas complexos.
+
+São estudados, pela mecânica geral, modelos de atrito, inércia, choque mecânico, trabalho e energia, gravitação e quantidade de movimento. Estes conceitos são imprescindíveis ao desenvolvimento das demais áreas de engenharia mecânica.[5]
+
+Dinâmica
+A dinâmica, não só no campo da mecânica, estuda a forma como elementos se comportam e interagem entre si, ao longo do tempo. Considera-se um sistema se o estado ou condição em que o mesmo se encontra não depende apenas das forças ou condições momentâneas a que é submetido, mas também depende do estado anterior em que se encontrava.[6] Este tipo de sistema físico geralmente acarreta em modelos matemáticos de equações diferenciais.[7] A análise envolvida pode atingir alto grau de complexidade demandando soluções algébricas sofisticadas ou até se restringindo a simulações numéricas (através de modelos computacionais).
+
+Na mecânica, a dinâmica é empregada em diversos tipos de tecnologia, como suspensão de automóvel, motores, projetos de navios e estruturas offshore, aeronaves, projeto de próteses ósseas etc.
+
+
+Regulador centrífugo, utilizado por James Watt no motor a vapor em 1788. Considerado o primeiro controlador moderno.
+Controle
+Os sistemas de controle são dispositivos que tem como objetivo modificar o comportamento de sistemas dinâmicos. Por trás do projeto de controle, envolvem-se as teorias de dinâmica associadas a lógicas de controle e diversos outros conhecimentos, como: projeto mecânico, elementos de máquinas, pneumática e hidráulica, etc.
+
+Os primeiros sistemas de controle foram criados para limitar a velocidade de máquinas a vapor, no século XVIII. Estes sistemas eram puramente mecânicos. Hoje, são mais comuns dispositivos que envolvam partes eletrônicas e eletromecânicas, contendo sensores, atuadores e controladores digitais, como é o caso dos sistemas de injeção eletrônica dos veículos automotores e o piloto automático de navios, aeronaves e mísseis.
+
+Mecânica de Corpos Deformáveis ou Mecânica dos Sólidos
+
+Simulação do estado de distribuição de tensões num automóvel em colisão, por elementos finitos
+Também conhecida como resistência dos materiais, a mecânica dos sólidos estuda o comportamento de corpos submetidos a esforços mecânicos. Entre as principais teorias, envolvem-se a da elasticidade, plasticidade e estabilidade.[8]
+
+
+Exemplo de engrenagem: engrenagem cônica
+A mecânica dos sólidos é fundamental no desenvolvimento de estruturas e elementos de máquinas, tais como engrenagens, árvores (eixos), mancais etc.[9] Permite estudar as variações de tensões e deformações ao longo do sólido (ou peça), essenciais para o seu dimensionamento. Para corpos de geometria e carregamento (forças externas) complexos, bem como aqueles constituídos de materiais não isotrópicos, é necessário utilizar técnicas numéricas assistidas por computador, a fim de determinar os campos de tensão ou deformação, como por exemplo:[10]
+
+Método das diferenças finitas;
+Método dos elementos finitos;
+Método dos elementos de contorno.
+
+Simulador de transformações termodinâmicas
+Mecânica dos fluidos
+Ver artigo principal: Mecânica dos fluidos
+Termodinâmica
+Ver artigo principal: Termodinâmica
+Transferência de calor
+Ver artigo principal: Transferência de calor

@@ -1,0 +1,189 @@
+Ultrassonografia
+Origem: Wikipédia, a enciclopédia livre.
+
+Equipamento de ultrassom
+A ultrassonografia ou ecografia é um método diagnóstico muito recorrente na medicina moderna que utiliza o eco gerado através de ondas ultrassônicas de alta frequência para visualizar, em tempo real, as estruturas internas do organismo. Por meio de uma ultrassonografia com doppler, o médico é capaz de ver o fluxo sangüíneo nos principais vasos.
+
+Fornece diagnóstico de imagens que complementa aquele feito com raios-X, medicina nuclear e ressonância magnética. Ultrassom não fornece a qualidade de imagem desses outros métodos, e é suscetível a artefatos, mas possui grandes vantagens em relação aos demais exames radiológicos:
+
+Não é um exame caro;
+É um exame presente em diversas clínicas e centros hospitalares;
+É de rápida execução;
+É realizado em tempo real;
+Permite maior contato entre o paciente e o radiologista;
+Pode ser feito com um instrumento ao lado da cama do paciente;
+É seguro, pois não utiliza radiação.
+Pelo fato de transmitir as imagens em tempo real, tal técnica é muito importante para o estudo do funcionamento dos órgãos.[1]
+
+No entanto, apresenta algumas desvantagens, pois é incapaz de reproduzir imagens que possibilitem o estudo de estruturas muito internas como as protegidas por ossos.
+
+Ultrassom representa a faixa de frequências acima de 20kHz. Os aparelhos de ultrassom utilizam, em geral, uma frequência a qual varia entre 2 MHz e 10 MHz. Aplicações especializadas de ultrassom usam até 50 MHz (20 MHz no caso da ultrassonografia dermatológica). Tais ondas ultrassônicas são emitidas através de um transdutor, o qual contém um cristal piezoelétrico. O transdutor também recebe os ecos gerados, transformando-os em sinais, que serão interpretados por um computador, para, em seguida, serem exibidos na forma de uma imagem no display.
+
+A sonda funciona, assim, como emissor/receptor. Quanto maior a frequência, maior a resolução obtida e mais precisão se tem na visualização das estruturas superficiais. Conforme a densidade e a composição das interfaces, a atenuação e mudança de fase dos sinais emitidos variam, sendo possível a tradução em uma escala de cinza, que formará a imagem dos órgãos internos.
+
+O preciso Efeito Doppler da ultrassonografia permite, também, conhecer o sentido e a velocidade do fluxo sanguíneo.
+
+A ultrassonografia é um dos métodos de diagnóstico por imagem mais versáteis e ubíquos, de aplicação relativamente simples. Por não utilizar radiação ionizante, como na radiografia e na tomografia computadorizada, é um método relativamente inócuo, pouco dispendioso e ideal para avaliar a evolução fetal. Nas últimas duas décadas do século XX, o desenvolvimento tecnológico transformou esse método em um instrumento poderoso de investigação médica dirigida, exigindo treinamento constante e uma conduta participativa do examinador.[2]
+
+A ultrassonografia é considerada uma modalidade de imageamento segura, contudo as ondas de ultrassom podem produzir efeitos biológicos[3] no corpo. Estas ondas depositam energia nos tecidos conforme se propagam, energia essa que gera um aumento de temperatura nesses tecidos. Em alguns casos, esse aquecimento acaba produzindo pequenos bolsões de gás nos fluidos ou tecidos (cavitação), que podem colapsar gerando danos aos tecidos ou liberando radicais livres, que podem causar danos químicos a moléculas biológicas importantes, como o DNA.
+
+
+Índice
+1	Características
+1.1	Impedância acústica
+1.2	Refração
+1.3	Atenuação
+2	Processo de formação da imagem
+2.1	Produção da onda sonora
+2.1.1	Arranjos de transdutores
+2.2	Recepção dos ecos
+2.3	Formação da imagem
+2.3.1	Modo de operação Pulso-Eco
+3	Efeito Doppler em Imageamento por Ultrassom
+3.1	Doppler Contínuo
+3.2	Doppler Pulsado
+3.3	Power Doppler
+4	Veja também
+5	Referências
+Características
+
+Exemplo de ultrassonografia
+Esta modalidade de diagnóstico por imagem apresenta características próprias:
+
+É um método não invasivo ou minimamente invasivo.
+Apresenta a anatomia em imagens seccionais ou bidimensionais, que podem se adquiridas em qualquer orientação espacial. Ultimamente a ecografia tridimensional está em desenvolvimento mas ainda não é um verdadeiro tridimensional mas sim a reconstrução informática em três dimensões das imagens previamente adquiridas em bidimensional.[4] (A versão 4D é interpretada como a aquisição 3D em tempo real).
+Não possui efeitos nocivos significativos dentro das especificações de uso diagnóstico na medicina.
+Não utiliza radiação ionizante.
+Possibilita o estudo não invasivo da hemodinâmica corporal através do efeito Doppler.
+Permite a aquisição de imagens dinâmicas, em tempo real, possibilitando estudos do movimento das estruturas corporais.
+O método ultrassonográfico baseia-se no fenômeno de interação do som com os tecidos, ou seja, a partir da transmissão da onda sonora pelo meio, observamos as propriedades mecânicas dos tecidos. Assim, torna-se necessário o conhecimento dos fundamentos físicos e tecnológicos envolvidos na formação das imagens, incluindo o modo pelo qual os sinais obtidos por essa técnica são detectados, caracterizados e analisados corretamente, propiciando uma interpretação diagnóstica correta.
+
+Além disso, o desenvolvimento contínuo de novas técnicas, a saber: o mapeamento Doppler, os meios de contraste, os sistemas de processamento de imagens em 3D, as imagens de harmônicas e a elastometria, exigem um conhecimento ainda mais amplo dos fenômenos físicos.
+
+A ultrassonografia pode contribuir como auxílio no diagnóstico médico e veterinário, sendo sua aplicação mais ampla atualmente em seres humanos. Esta técnica tem sido muito utilizada em obstetrícia, sobretudo na avaliação de aspectos morfofuncionais. Permite ainda a orientação de processos invasivos mesmo antes do nascimento.
+
+A ultrassonografia interage e auxilia a todas as demais especialidades médicas e cada vez mais se afirma como um dos pilares do diagnóstico médico na atualidade.
+
+Impedância acústica
+A propriedade física dos tecidos que possibilita a formação de imagens de ultrassonagrafia é a impedância acústica[5] {\displaystyle Z}Z, expressa por:
+
+{\displaystyle Z=\rho _{0}*c={\sqrt {\frac {\rho _{0}}{\kappa }}}}{\displaystyle Z=\rho _{0}*c={\sqrt {\frac {\rho _{0}}{\kappa }}}} , sendo {\displaystyle \rho _{0}}{\displaystyle \rho _{0}} a densidade e {\displaystyle \kappa }{\displaystyle \kappa } a compressibilidade do tecido, e {\displaystyle c}{\displaystyle c} a velocidade do som no tecido.
+
+A interação da onda sonora incidente com uma fronteira entre dois tecidos com diferentes impedâncias acústicas, {\displaystyle Z_{1}}{\displaystyle Z_{1}}e {\displaystyle Z_{2}}{\displaystyle Z_{2}}, resulta em uma onda refletida e uma onda transmitida. O coeficiente de reflexão R descreve a fração da intensidade da onda sonora incidente que é refletida. Ele é expresso como:
+
+{\displaystyle R={\biggl (}{\frac {Z_{2}-Z_{1}}{Z_{2}+Z_{1}}}{\biggl )}^{2}}{\displaystyle R={\biggl (}{\frac {Z_{2}-Z_{1}}{Z_{2}+Z_{1}}}{\biggl )}^{2}}
+
+O coeficiente de transmissão T é definido como a fração da intensidade da onda sonora que é transmitida através dessa fronteira. Por conservação de energia:
+
+{\displaystyle T=1-R}{\displaystyle T=1-R}
+
+As intensidades refletida e transmitida são o produto da intensidade incidente pelo coeficiente de reflexão e transmissão, respectivamente .
+
+Se a impedância acústica dos dois meios for a mesma , {\displaystyle Z_{1}=Z_{2}}{\displaystyle Z_{1}=Z_{2}}, não há onda refletida e a onda inteira é transmitida. Se {\displaystyle Z_{1}<<Z_{2}}{\displaystyle Z_{1}<<Z_{2}} (por exemplo, som indo do ar para a água), quase todo o som é refletido. É por esse motivo que um gel de acoplamento acústico deve ser usado entre o transdutor e a pele para eliminar bolsões de ar.
+
+
+Artefato gerado por refração
+Refração
+Refração é o fenômeno de mudança de direção da onda sonora transmitida em uma fronteira entre dois tecidos quando o feixe incidente não é perpendicular a esta fronteira. A frequência da onda incidente não se altera, mas a velocidade do som pode ser diferente nos dois tecidos. O ângulo de refração é dado pela Lei de Snell:
+
+{\displaystyle {\frac {\theta _{t}}{\theta _{i}}}={\frac {c_{2}}{c_{1}}}}{\displaystyle {\frac {\theta _{t}}{\theta _{i}}}={\frac {c_{2}}{c_{1}}}}
+
+sendo {\displaystyle \theta _{i}}{\displaystyle \theta _{i}} e {\displaystyle \theta _{t}}{\displaystyle \theta _{t}} os ângulos incidente e transmitido, quando a onda sonora se propaga do meio 1 para o meio 2, com velocidades do som no meio iguais a {\displaystyle c_{1}}c_1e {\displaystyle c_{2}}c_2, respectivamente.
+
+A ocorrência de refração em ultrassonografia resulta em artefatos,[6] como o da imagem ao lado. O feixe de ultrassom incidente sofre refração e encontra duas estruturas. Ao construir a imagem, o objeto no caminho do feixe refratado estará posicionado no lugar incorreto, pois o display do ultrassom assume que o feixe se propaga por um caminho reto.
+
+Não ocorre refração quando a velocidade do som é a mesma nos dois tecidos, ou quando a incidência é perpendicular.
+
+Atenuação
+Uma onda sonora se propagando em um meio é atenuada.[7] Há uma diminuição na intensidade devido a fatores como viscosidade e condução de calor. A atenuação é causada principalmente pelo espalhamento e absorção nos tecidos (na forma de calor) do feixe incidente. A atenuação aumenta com o aumento da frequência da onda sonora.
+
+Processo de formação da imagem
+Em imageamento por ultrassom, um pulso curto de energia mecânica é enviado para os tecidos. O pulso viaja na velocidade do som, e com as mudanças nas propriedades acústicas dos tecidos, uma fração do pulso é refletido como um eco que volta para a fonte. Armazenando os ecos ao longo do tempo, assim como a intensidade dos mesmos, obtemos informações sobre os tecidos ao longo do caminho.
+
+A criação de uma imagem digital a partir das ondas ultrassônicas se dá em 3 etapas: produção da onda sonora, recepção do eco e interpretação do eco recebido.
+
+Produção da onda sonora
+
+Transdutor
+A Ultrassom é tipicamente produzido utilizando um transdutor piezoelétrico. O transdutor é o componente do aparelho de ultrassonografia que entra em contato com o paciente e é conectado ao restante do equipamento através de um cabo.
+
+Um material piezoelétrico converte uma tensão (ou pressão) em um campo elétrico, e vice versa. Transdutores usados para imageamento utilizam cerâmica piezoelétrica sintética, normalmente titanato zirconato de chumbo (PZT).
+
+Uma voltagem oscilando com alta frequência aplicada através do material piezoelétrico cria uma onda sonora com a mesma frequência. Uma pressão oscilante aplicada a um material piezoelétrico cria uma voltagem oscilando através dele. A medida dessa voltagem fornece uma maneira de registrar ondas ultrassônicas. O mesmo material piezoelétrico pode funcionar tanto como fonte quanto como detector!
+
+O som é direcionado pelo formato do transdutor ou por sistemas mais complexos de controle. Há um intervalo de alguns milissegundos entre a produção de cada pulso de ondas ultrassônicas. Durante esses intervalos, há a captação das ondas que são refletidas.
+
+A direção do feixe é rapidamente alterada para cobrir uma região do corpo em forma de leque. Isso pode ser feito com um arranjo de transdutores que são pulsados sequencialmente, ou com um arranjo faseado de transdutores que são pulsados juntos.
+
+Arranjos de transdutores
+A maioria dos sistemas de ultrassom utiliza transdutores com vários elementos[8] piezoelétricos retangulares individuais. Dois modos de ativação são utilizados para produzir um feixe:
+
+Transdutores com arranjo linear contêm tipicamente de 256 a 512 elementos. O feixe de ultrassom é produzido ativando-se um pequeno grupo de aproximadamente 20 elementos adjacentes. Um novo feixe é produzido ativando-se um outro grupo de elementos adjacentes, deslocado de alguns elementos em relação ao anterior. Cada grupo de elementos age como um elemento transdutor maior nesse caso. Para a formação da imagem em tempo real, é necessário gerar feixes através do arranjo de transdutores várias vezes por segundo. O número de elemento ativados simultaneamente está relacionado com a resolução: quanto menor for esse número, melhor é a resolução, mas há um aumento na divergência do feixe, diminuindo a qualidade da imagem.
+Transdutores com arranjo faseado são compostos de 64 a 128 elementos. Todos os elementos são ativados quase simultaneamente para produzir o feixe. Usando diferenças de fase (menores que um microssegundo) na ativação do elementos ao longo do transdutor, o feixe de ultrassom pode ser apontado para diferentes direções. Alterando-se as diferenças de fase pode-se varrer um setor em forma de leque, sem que seja necessário mover o transdutor.
+O som é parcialmente refletido (gera o eco) pelas interfaces formadas pelos diferentes tecidos do corpo. Portanto, o som é refletido por qualquer lugar em que a densidade do corpo mude.
+
+A frequência do ultrassom não é afetada pelas mudanças na velocidade do som conforme o feixe acústico se propaga através dos diferentes meios. Já o comprimento de onda do som sim, é afetado pela velocidade de propagação, ou seja, depende do meio pelo qual a onda se propaga. Quanto maior for a frequência emitida pelo transdutor, maior será a resolução da imagem. Contudo, se a frequência for muito alta, o campo de visualização fica restringido a alguns centímetros de profundidade (pois, como citado acima, a onda sonora é mais atenuada quanto maior for sua frequência). Desse modo, a frequência a ser utilizada depende da estrutura a ser analisada.
+
+Existem vários tipos de transdutores. Entre eles estão: o convexo, com a frequência variando entre 3 a 6 MHz (utilizado para exames obstétricos); o linear, com a frequência variando entre 5 a 11 MHz (utilizado para exames superficiais como mama e tireoides); convexo endocavitário, com a frequência variando entre 5 a 11 MHz (utilizado para exames de próstata e genitália interna feminina).[9]
+
+Recepção dos ecos
+O oposto também ocorre, ou seja, ao receber estímulos mecânicos (ondas ultrassônicas), os cristais vibram e geram uma diferença de potencial elétrico, causando impulsos elétricos. Estes constituem um sinal elétrico, que é lido e interpretado pelo computador acoplado ao aparelho de ultrassom (ou "scanner" de ultrassom). O scanner processa esses sinais e os transforma em uma imagem digital. Desse modo, percebe-se que a ultrassonografia é uma técnica baseada na leitura de ecos.
+
+Commons
+O Commons possui imagens e outros ficheiros sobre Ultrassonografia
+Formação da imagem
+O scanner sonográfico determina três informações de cada eco recebido:
+
+Quanto tempo levou desde a transmissão até a recepção do eco.
+A partir do intervalo de tempo, calcula a distância (profundidade) onde o eco se formou, possibilitando uma imagem nítida do eco na dada profundidade.
+Qual a intensidade do eco.
+
+Ultrassom Modo M de um coração de cachorro. Representa o movimento do músculo do coração ao longo do tempo
+Quando o scanner sonográfico determina estas 3 informações, ele pode codificar cada pixel da imagem com a intensidade.
+
+Um pulso curto (tipicamente 0.5 μs de duração com uma frequência central de cerca de 5 MHz) é aplicado ao tecido por um transdutor piezoelétrico. O pulso viaja com uma velocidade de cerca de {\displaystyle c=1540m/s}{\displaystyle c=1540m/s} (velocidade média de propagação do som nos tecidos moles). Quando ele se aproxima de uma fronteira entre dois tecidos com impedâncias acústicas diferentes, parte do pulso incidente é refletido como um eco, que pode ser detectado pelo mesmo transdutor piezoelétrico.
+
+Quanto maior o tempo entre a geração e a detecção do pulso, mais longe a fronteira refletiva. Fronteiras múltiplas produzem múltiplos ecos, com cada eco correspondendo a uma distância diferente da fonte à fronteira.
+
+A transformação do sinal recebido numa imagem pode ser explicada usando uma planilha como analogia. Imagine o transdutor localizado na primeira linha, ocupando várias colunas. Ele envia impulsos para baixo, em cada coluna da planilha. Então espera para ver quanto tempo cada impulso leva para retornar (eco). Quanto mais demorar, mais o sinal se desloca para baixo na coluna correspondente.
+
+Um plot da intensidade do eco versus o tempo é chamado um scan A. Para formar uma imagem bidimensional, é necessário scanear em muitas direções (colunas da planilha) diferentes. Em um scan B, o brilho da tela corresponde à intensidade do eco, plotado versus posição no corpo no plano do escaneamento. O transdutor do scan B envia um feixe estreito dentro do corpo. A intensidade do eco determina a cor que a célula vai ter (branco para um eco forte, preto para um muito fraco, e graduações de cinza para as intensidades intermédias). Quando ocorre a transição entre dois meios com grande diferença de impedâncias, maior será a intensidade do eco e, desse modo, mais intensa (branca) será a imagem gerada.
+
+Outros métodos de imagem de ultrassom incluem movimento ou modo M, que pode ser usado para observar o batimento do coração como uma função do tempo.
+
+Modo de operação Pulso-Eco
+Nesse modo de operação, o transdutor produz intermitentemente o feixe de ultrassom. A maior parte do tempo é ocupada captando os ecos. O intervalo de tempo entre a produção do feixe e a detecção do eco está relacionado à profundidade.O número de vezes por segundo que o transdutor gera um pulso é conhecido como Frequência de Repetição de Pulso (PRF). Para imageamento, a PRF geralmente varia entre 2000 a 4000 pulsos por segundo.
+
+Um aumento na PRF resulta em uma diminuição no tempo de captação dos ecos. A PRF máxima é determinada pelo tempo necessário para os ecos das estruturas mais distantes alcançarem o transdutor. Se um segundo pulso ocorrer antes da detecção do eco mais distante, estes ecos mais distantes podem ser confundidos com os ecos mais próximos do segundo pulso, dando origem a um artefato.
+
+Feixes de ultrassom com frequência mais alta têm uma menor profundidade de penetração (pois, novamente, a onda sonora é mais atenuada quanto maior for sua frequência), permitindo PRFs maiores. Feixes de ultrassom com frequências mais baixas, por sua vez, exigem PRFs menores, porque ocorrem ecos em estruturas mais profundas.
+
+O Ciclo de Trabalho (do inglês, Duty Cycle) em Ultrassonografia é a fração de tempo em que o transdutor está produzindo ondas sonoras. Matematicamente ele é igual à duração do pulso multiplicado pela PRF. Para imageamento em tempo real, o Ciclo de Trabalho está tipicamente entre 0,2% e 0,4%,ou seja, mais que 99,5% do tempo de escaneamento é ocupado captando os ecos.
+
+Efeito Doppler em Imageamento por Ultrassom
+
+Diagrama ilustrando o processo do ultrassom na análise do fluxo sanguíneo (baseado no efeito doppler)
+
+Mapa de fluxo sanguíneo de uma artéria carótida. A codificação a cores indica a direção das hemácias, aproximando-se ou afastando-se da sonda, assim como a sua velocidade.
+Quando a fonte de um ultrassom está se movendo, a frequência da onda observada por um receptor estacionário é diferente da frequência da fonte. Esse fenômeno é chamado efeito Doppler. Quando a fonte está se movendo na direção do receptor, a frequência é maior, e quando a fonte se afasta do receptor, a frequência é menor.
+
+Em aplicações médicas de ultrassom, a onda detectada é frequentemente uma reflexão de tecido em movimento, como hemácias no sangue. A diferença entre as frequências contém informações sobre a velocidade do objeto. Essas informações podem ser usadas para criar mapas de fluxo sanguíneo.
+
+Doppler Contínuo
+Trata-se do sistema mais simples e barato para medir a velocidade do sangue. São necessários dois transdutores: um transmitindo o ultrassom incidente e o outro detectando os ecos contínuos resultantes. A precisão do Doppler contínuo é afetada pelo movimento de outras estruturas no caminho do feixe. Em regiões com múltiplos vasos sanguíneos, uns sobre os outros, ocorre superposição dos ecos, tornando difícil distinguir um sinal específico.
+
+Doppler Pulsado
+Este sistema combina a determinação de velocidade do sistema Doppler Contínuo com a determinação da profundidade do imageamento Pulso-Eco.
+
+Um transdutor para Doppler Pulsado é usado no formato Pulso-Eco, como no imageamento. A profundidade é selecionada utilizando um circuito eletrônico do tipo gate, que mede o tempo do eco e rejeita todos os sinais fora do intervalo determinado pelo operador. Em alguns sistemas, múltiplos gates fornecem perfis de velocidade através de um vaso.
+
+Cada pulso não contém informação suficiente para determinar completamente o deslocamento Doppler, mas apenas uma amostra das frequências alteradas medidas como uma mudança de fase. Objetos estacionários não geram mudança de fase, mas objetos em movimento o fazem. Os ecos repetidos dentro do intervalo ativo são analisados e um sinal Doppler é gradualmente construído.
+
+Quando os deslocamentos de frequência de Doppler excedem metade da PRF, ocorre aliasing, causando um erro significativo na estimativa de velocidade do sangue.
+
+Power Doppler
+A análise por Doppler coloca uma restrição na sensibilidade ao movimento, porque os sinais gerados pelo movimento devem ser extraídos para determinar velocidade e direção a partir das mudanças de fase nos ecos detectados dentro da janela ativa.
+
+Power Doppler é um método de processar o sinal que se baseia na amplitude de todos os sinais Doppler, independente da direção do movimento (ou seja, da direção do fluxo). Isso melhora a sensibilidade ao movimento, ao custo da informação da direção do fluxo. Maior sensibilidade permite a detecção e interpretação de fluxos sanguíneos muito sutis e lentos.
+
+Aliasing não é um problema porque apenas a amplitude dos sinais é analisada, e não a fase.

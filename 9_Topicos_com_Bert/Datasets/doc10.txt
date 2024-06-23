@@ -1,0 +1,26 @@
+Toxicologia
+Origem: Wikipédia, a enciclopédia livre.
+
+Este artigo ou secção não cita fontes confiáveis e independentes. Ajude a inserir referências.
+O conteúdo não verificável pode ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Junho de 2015)
+
+Toxicologia
+A toxicologia é uma ciência multidisciplinar que tem como objeto de estudo os efeitos adversos das substâncias químicas sobre os organismos. Possui vários ramos, sendo os principais a toxicologia clínica, que trata dos pacientes intoxicados, diagnosticando-os e instituindo uma terapêutica mais adequada; a toxicologia experimental, que utiliza animais para elucidar o mecanismo de ação, espectro de efeitos tóxicos e órgão alvos para cada agente tóxico, além de estipular a DL50 e doses tidas como não tóxicas para o homem através da extrapolação dos dados obtidos com os modelos experimentais; e a toxicologia analítica, que tem como objetivo identificar/quantificar toxicantes em diversas matrizes, sendo estas biológicas (sangue, urina, cabelo, saliva, vísceras, etc.) ou não (água, ar, solo). No entanto existem outras áreas da toxicologia como a ambiental, forense, de medicamentos e cosméticos, ocupacional, ecotoxicologia, entomotoxicologia, veterinária, etc. Sendo assim, é importante que o profissional que atue nesta área tenha conhecimentos de diversas áreas como química, farmacocinética e farmacodinâmica, clínica, legislação, etc.
+
+
+Índice
+1	Origem da palavra
+2	Concentração ou dosagem
+3	Ver também
+4	Ligações externas
+Origem da palavra
+A palavra "Toxikon" tem origem grega e significa veneno das flechas (usado na caça desde a antiguidade). As pontas das flechas eram preparadas com material bacterialmente contaminado, por exemplo pedaços de cadáveres ou venenos vegetais, com o intuito de acelerar a morte dos animais, levando a paralisia do músculo cardíaco e da musculatura esquelética. A toxicologia é uma ciência multidisciplinar que tem como objeto de estudo as alterações das funções fisiológicas, isto é, os efeitos nocivos causados por substâncias químicas sobre organismos vivos.
+
+Concentração ou dosagem
+Na questão de determinar a toxicidade de um determinado material, é normalmente importante saber determinar a quantidade ou concentração desse material. Algumas substâncias têm em pequenas quantidades um efeito positivo sobre o corpo e tornam-se no entanto perigosas quando em grandes concentrações.
+
+"Todas as coisas são um veneno e nada existe sem veneno, apenas a dosagem é razão para que uma coisa não seja um veneno" (Theophrastus Bombastus von Hohenheim, conhecido como Paracelso (1493-1541)). Muitas substâncias consideradas venenosas são tóxicas apenas de forma indirecta. Um exemplo é o "álcool de madeira" ou metanol, o qual não é venenoso em si mesmo mas que é convertido em formaldeído tóxico no fígado. Muitas moléculas de narcóticos tornam-se tóxicas no fígado, um bom exemplo sendo o acetaminophen (paracetamol), especialmente na presença de álcool. A variabilidade genética de certas enzimas do fígado permitem que a toxicidade de muitos compostos variem de um indivíduo para o outro. Como a actividade de uma enzima do fígado pode induzir a actividade de outras, muitas moléculas tornam-se tóxicas apenas em combinação com outras.
+
+Uma actividade muito comum entre os toxicólogos é identificar quais as enzimas do fígado convertem uma molécula num veneno, ou quais os produtos tóxicos dessa conversão ou ainda em que condições e em que indivíduos essa conversão toma lugar.
+
+O termo LD50 refere-se à dosagem de uma substância tóxica que mata 50% de uma população teste (normalmente ratos ou outros animais de testes que se usam para testar a toxicidade).

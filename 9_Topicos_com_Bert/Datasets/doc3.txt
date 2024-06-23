@@ -1,0 +1,111 @@
+Bioquímica
+Origem: Wikipédia, a enciclopédia livre.
+
+Laboratório de bioquímica.
+
+Exemplo de proteína, uma das classes de compostos bioquímicos mais abundantes
+Bioquímica (química aplicada à biologia) é a ciência e tecnologia que estuda e aplica as ciências químicas ao contexto da biologia, sendo portanto uma área interdisciplinar entre a química e a biologia. Consiste no estudo, identificação, análise, modificação e manipulação de moléculas e das reações químicas de importância biológica, em ambientes e contextos químicos próprios in vitro ou in vivo (compartimentos celulares, virais e fisiológicos). Envolve moléculas de diversas dimensões tais como proteínas, enzimas, carboidratos, lipídios, ácidos nucléicos, vitaminas, alcaloides, terpenos e mesmo íons inorgânicos. Também engloba o estudo do efeito de compostos químicos orgânicos ou inorgânicos sobre os diferentes compartimentos biológicos, (química biológica), assim como a modificação química de biomoléculas. [1][2][3] Suas aplicações englobam setores como alimentos, fármacos e biofármacos, análises clínicas, biocombustíveis, pesquisa básica dentre outros. É uma ciência e tecnologia essencial para todas as profissões relacionadas a ciências da vida e uma das fronteiras de desenvolvimento das ciências químicas.
+
+Bioquímico é o profissional que estuda e aplica as leis da bioquímica para o entendimento e aplicação tecnológica de biomoléculas e dos organismos vivos (bioquímica industrial, biotecnologia e bioprocessos, bioquímica médica e clínica, bioquímica de alimentos, bioquímica agrícola e ambiental) para benefícios comerciais e industriais, e/ou benefícios a saúde humana e animal, a agropecuária e ao meio ambiente. Os bioquímicos utilizam ferramentas e conceitos da química e da biologia, particularmente da química orgânica, físico-química, fermentações e metabolismo, biologia celular, biologia molecular e genética, para a elucidação dos sistemas vivos e para sua aplicação tecnológica e industrial.[4]
+
+A Bioquímica não deve ser confundida, no Brasil, com as análises clínicas, apenas uma de suas inúmeras aplicações e nem tampouco as análises clínicas devem ser reduzidas a apenas a bioquímica clínica.[5] Em função disso, a graduação (licenciatura em Portugal) em Bioquímica é uma das mais tradicionais na Europa e EUA, e no Brasil, existe nas Universidades Federais de Viçosa e de São João del Rey (UFV e UFSJ) e nas Universidades Estaduais de Maringá e de São Paulo (UEM e USP, nesta última, como química ênfase bioquímica). No Brasil, não se deve confundir farmacêutico com o bioquímico, visto que um é profissional de saúde e outro é profissional da química da vida e da biotecnologia. Por bastante tempo, os cursos de graduação em farmácia no Brasil denominaram-se Farmácia-Bioquímica, em errônea alusão à habilitação em análises clínicas. Isto gerou na sociedade, e mesmo nos meios acadêmicos, a falsa noção de que bioquímica seria sinônimo de análises clínicas e farmácia, algo totalmente errado.[6]
+
+
+Índice
+1	História
+2	Objetos de estudo e aplicações
+3	Profissão e Bacharelado em Bioquímica
+3.1	Em Portugal
+3.2	No Brasil
+3.3	Diferenças para outras profissões
+4	Ver também
+5	Referências
+6	Ligações externas
+História
+
+Anselme Payen: o químico francês isolou pela primeira vez em 1833 uma enzima, a diastase, sendo este um importante marco na consolidação da bioquímica como ciência.
+A história da bioquímica moderna data do século XIX quando começaram as abordagens químicas sobre os fenômenos da biologia integrando conhecimento destas duas ciências e quando a química orgânica amadureceu como ciência e tecnologia. Um importante marco da bioquímica moderna foi a descoberta da síntese de ureia por Friedrich Wöhler em 1828, provando que os compostos orgânicos poderiam ser obtidos artificialmente. Outro marco importante ocorreu em 1833, quando Anselme Payen isolou pela primeira vez uma enzima, a diastase. Esta descoberta também é considerada como a primeira vez que foi descrito um composto orgânico que apresentava as propriedades de um catalisador. Entretanto, apenas em 1878, o fisiologista Wilhelm Kühne cunhou o termo enzima para se referir aos componentes biológicos desconhecidos que participavam do processo de fermentação.[1][2][3]
+
+Em meados do século XIX, Louis Pasteur estudou o fenômeno da fermentação e descobriu que certas leveduras estavam envolvidas neste processo, e portanto, não se tratava de um fenômeno somente químico. Pasteur escreveu: "a fermentação alcoólica é um ato relacionado com a vida e organização das células de levedura, não com a morte e putrefação destas células". Pasteur desenvolveu também métodos de esterilização de vinho, leite e cerveja (pasteurização) e contribuiu muito para refutar a ideia de geração espontânea de seres vivos. Em 1896, Eduard Buchner demonstrou pela primeira vez que um processo bioquímico complexo poderia ocorrer fora de uma célula, tendo como base a fermentação alcoólica usando extrato celular de levedura.[1][2][3]
+
+Durante o período de 1885-1901, Albrecht Kossel isolou e nomeou cinco constituintes dos ácidos nucleicos: adenina, citosina, guanina, timina e uracila. Estes compostos são conhecidos coletivamente como bases nitrogenadas e integram a estrutura molecular do DNA e do RNA. Os ácidos nucléicos foram descobertos por Friedrich Miescher, em 1869.[1][2][3]
+
+Embora o termo "bioquímica" pareça ter sido usado pela primeira vez em 1882, é geralmente aceito que a cunhagem formal do termo ocorreu em 1903 por Carl Neuberg, um químico alemão. No entanto grandes pesquisadores como Wöhler, Liebig, Pasteur e Claude Bernard já usavam outras denominações.[1][2][3]
+
+
+A elucidação da estrutura do DNA é considerada uma das descobertas mais importantes na área de bioquímica no século XX.
+A partir da década de 1920, a bioquímica experimentou considerável avanço, especialmente pelo desenvolvimento de novas técnicas, como a cromatografia, a difração de raios X, a espectroscopia de RMN, a marcação isotópica, a microscopia eletrônica e simulações de dinâmica molecular. Estas técnicas permitiram a descoberta e análise detalhada de muitas biomoléculas e de vias metabólicas em uma célula, tal como a glicólise e o ciclo de Krebs.[1][2][3]
+
+Na década de 1950, James D. Watson, Francis Crick, Rosalind Franklin e Maurice Wilkins resolverem a estrutura do DNA e sugeriram a sua relação com a transferência da informação genética. Em 1958, George Beadle e Edward Tatum receberam o Prêmio Nobel pelo trabalho com fungos, onde demostram que um gene gerava como produto uma enzima. Este conceito, hoje ampliado, ficou conhecido como o Dogma central da biologia molecular.Neste momento a bioquímica passa a ter um relação mais intima com a biologia molecular, o estudo dos mecanismos moleculares pelos quais a informação genética codificada no DNA pode resultar nos processos de vida. Dependendo da definição exata dos termos utilizados, a biologia molecular pode ser considerada como um ramo de bioquímica, ou bioquímica como uma ferramenta para investigar e estudar a biologia molecular. Entretanto, é importante frisar que essa relação mais íntima jamais eliminou da bioquímica o estudo de outras biomoléculas.[1][2][3]
+
+Em 1975 foi a vez de destacar as pesquisas sobre o sequenciamento de DNA, sendo Allan Maxam, Walter Gilbert e Frederick Sanger os principais cientista envolvidos nestas pesquisas. Logo em seguida surge a primeira empresa de biotecnologia industrial, a Genentech. Logo tornou-se possível a fabricação de princípio ativo, hormônios e vacinas por meios biotecnológicos.[1][2][3]
+
+Em 1988, Colin Pitchfork foi a primeira pessoa condenada por assassinato usando como provas exames de DNA, ocasionando uma revolução nas ciências forenses. Mais recentemente, Andrew Fire e Craig Mello receberam o Prêmio Nobel em 2006 pela descoberta da interferência do RNA (RNAi) no silenciamento genético.[1][2][3]
+
+Objetos de estudo e aplicações
+Ver artigo principal: Bioquímico
+Estudo do sistema bioquímico: determinação das propriedades químicas, físico-químicas, biofísicas e estruturais das biomoléculas e de suas interações entre si; métodos de análise e purificação. As biomoléculas podem ser classificadas como orgânicas e inorgânicas[1][2][3]:
+
+As biomoléculas orgânicas são aquelas que apresentam uma estrutura cuja base é o carbono e são sintetizadas pelos seres vivos, como as proteínas, vitaminas, carboidratos, ácidos nucleicos e lipídeos e compostos de metabolismo secundário (produtos naturais), tais como os da fitoquímica;
+As biomoléculas inorgânicas são aquelas presentes tanto em seres vivos quanto em elementos inertes, como a água e íons bioinorgânicos (Cálcio, Magnésio, Potássio, Cloreto por exemplo);
+As interações moleculares entre biomoléculas podem resultar em reações químicas de síntese ou degradação (metabolismo), modificação estrutural em biomoléculas (alosterismo), ou efeitos de compostos químicos externos (xenobióticos);
+A água é uma biomolécula importante, responsável por 70% do peso total de uma célula. Além de ser o principal constituinte da célula, desempenha um papel fundamental na definição de suas estruturas e funções. Muitas vezes a estrutura ou a função de uma biomolécula depende de suas características de afinidade com a água, a saber: se a biomolécula é hidrofílica, hidrofóbica ou anfipática. A água é o meio ideal para a maioria das reações bioquímicas e é o fator primário de definição das complexas estruturas espaciais das macromoléculas.[1][2][3]
+
+As proteínas constituem a maior fração da matéria viva e são as macromoléculas mais complexas; possuem inúmeras funções na célula e formam várias estruturas celulares, além de controlarem a entrada e saída de substâncias nas membranas. Têm importante papel na contração e movimentação dos músculos (actina e miosina), sustentação (colágeno), transporte de oxigênio (hemoglobina), na defesa do organismo (anticorpos ), na produção de hormônios e também atuam como catalisadores (as enzimas) de reações químicas.[1][2][3]
+
+Os ácidos nucléicos são as maiores macromoléculas da célula e responsáveis pelo armazenamento e transmissão da informação genética.
+
+Os carboidratos são os principais combustíveis celulares (reserva de energia); possuem também função estrutural e participam dos processos de reconhecimento celular e de formação dos ácidos nucleicos. São exemplos glicose, frutose,pentose, sacarose lactose, amido.[1][2][3]
+
+Os lipídios são a principal fonte de armazenamento de energia dos organismos vivos e desempenham importantes funções no isolamento térmico e físico (impermeabilização de superfícies biológicas como frutos) e proteção a choques mecânicos. São exemplos membrana biológicas (fosfolipídios), gorduras e óleos, precursores de hormônios esteroides (tais como testosterona, progesterona e estradiol) e de sais biliares, que atuam como detergentes, propiciando a absorção dos lipídios.[1][2][3]
+
+As vitaminas são micromoléculas, não participam do processo digestório, pois são absorvidas diretamente pelo organismo, que atuam como coenzimas, isto é, ativando enzimas responsáveis pelo metabolismo celular. Geralmente são hidrossolúveis. São lipossolúveis as vitaminas A (retinol), D (calciferol), E (tocoferol) e K.[1][2][3]
+
+Os compostos do metabolismo secundário, tais como alcalóides (cafeína, nicotina, atropina), polifenóis (taninos), terpenos (óleos essenciais aromáticos), dentre outros.[1][2][3]
+
+O metabolismo envolve a síntese e degradação das diferentes biomoléculas, mecanismos de regulação das inúmeras reações que ocorrem simultaneamente na célula e no organismo; fluxos metabólicos; processos fermentativos e estudo do efeito de compostos químicos xenobióticos nos organismos vivos (efeitos de fármacos, agroquímicos, poluentes, tóxicos). Entre os celos metabólicos mais importantes estão o ciclo de Krebs, fotossíntese.[1][2][3]
+
+No estudo da Bioquímica diversos são os instrumentais de análise, em especial instrumentos e técnicas químicas, bioquímicas e biofísicas, tais como eletroforese, cromatografia (em especial HPLC/CLAE e gasosa), espectrofotometria, reação em cadeia da polimerase (PCR), plasmídeos e tecnologia do DNA recombinante (engenharia genética),ensaios enzimáticos, espectrometria de massas, ressonância magnética nuclear, ensaios de fluorescência (espectroscopia de fluorescência por exemplo), calorimetria de titulação isotérmica (ITC), biorreatores, ensaios de ligação de biomoléculas (Western Blot, ELISA), dicroísmo circular, PCR quantitativo, bioinformática, Sohxlet, destilação, centrifugação, Kjeldalhl, Demanda química de oxigênio (DQO), meios de cultura, entre outros que podem ser vistas nesta listagem: técnicas de laboratório.[1][2][3]
+
+Estudo do sistema biológico em nível molecular: Apresenta a visão bioquímica de processos e fenômenos da biologia celular, fisiologia e imunologia, transmissão de genes (biologia molecular), patologia.[1][2][3]
+
+A Bioquímica celular apresenta a visão e explicação bioquímica de processos e fenômenos intracelulares envolvendo: sinalização celular, divisão celular, tráfico de vesículas, morte celular, radicais livres, regulação do ciclo celular, reprodução descontrolada (câncer), adesão celular, funções metabólicas de organelas, relação bioquímica entre organelas e sinalização intracelular, organização do material genético nas células (cromossomos, cromatina, nucleossomos), processos de replicação, reparo, recombinação e transposição, organização dos genomas, controle da expressão gênica.[1][2][3]
+
+A Bioquímica fisiológica apresenta a visão e explicação bioquímica de processos e fenômenos fisiológicos envolvendo: controle e integração de processos fisiológicos por hormônios, equilíbrio eletrolítico e ácido-base, equilíbrio gasoso e bioquímica da respiração, bioquímica do sistema nervoso, bioquímica do sistema digestório, bioquímica do tecido hepático, bioquímica do tecido renal, bioquímica do sangue e linfa, bioquímica do tecido adiposo, bioquímica da visão.[1][2][3]
+
+A Bioquímica clínica (patológica) apresenta a visão e diagnóstico bioquímico de processos e fenômenos patológicos tais como: diabetes mellitus e hipoglicemia, provas de função renal, função hepática e função pancreática, dislipidemias, marcadores moleculares enzimáticos e genéticos, doenças do coração, lesões musculares, distúrbios de equilíbrio ácido-báse, disfunções hormonais e químicas de hipófise, tireóide, gônadas, adrenal e para-tireóide.[1][2][3]
+
+O conhecimento bioquímico é muito importante para empresas e indústrias de diversas áreas:[2][3][7][8] farmacêutica (farmoquímicos: fármacos, excipientes, produtos naturais e biofármacos), análises clínicas (instrumental de análise e diagnóstico bioquímica de doenças), nutrição e alimentos (ingredientes e análises de componentes bioquímicos, bebidas alcoólicas, leite e derivados, produção de chocolates), agrícola (agroquímicos e melhora da fixação de nitrogênio em plantas como a soja), cosmética (novos ingredientes e produtos de beleza e higiene) e até tecnológica (produção de compósitos sustentáveis de origem renovável).[1][2][3]
+
+Profissão e Bacharelado em Bioquímica
+Ver artigo principal: Bioquímico
+
+Algumas áreas de atuação do Bacharel em Bioquímica
+O primeiro instituto de pesquisa estruturado e voltado unicamente para a química da vida surgiu em 1872, como Instituto de Química Fisiológica da Universidade de Strasbourg, enquanto que, em 1880, a universidade norte-americana de Yale estruturou os primeiros cursos regulares de química fisiológica. Por volta de 1899, quando a universidade inglesa de Cambridge criou o laboratório de química dentro do departamento de fisiologia, chefiado por Frederick Gowland Hopkins, primeiro professor de bioquímica da Universidade de Cambridge, e também fundador da bioquímica inglesa,[9] a química da vida já estava estabelecida como ciência, sob diferentes denominações.[10] O processo de maturação desta ciência estabeleceu cursos de bacharelado (em Portugal, equivalente a Licenciatura) em diversos países.[9] É preciso ressaltar que os cursos de graduação (licenciaturas) em bioquímica e portanto, os bioquímicos são tradicionais em países da Europa (Reino Unido, Alemanha, Espanha, Portugal, Franca e Italia),na America Latina (Argentina, Paraguai, Uruguai, Chile, Colombia, Mexico e Guatemala) no Canadá, na Austrália e nos Estados Unidos. Neste último país, os cursos de bacharelado em bioquímica existem desde a década de 50. Segundo a ASBMB (American Society for Biochemistry and Molecular Biology) existem cerca de 600 Instituições nos Estados Unidos que oferecem os cursos de bioquímica/biologia molecular e estima-se que cerca de 2 mil bacharéis foram graduados nos anos de 2001-2002. No Reino Unido existem mais de 100 cursos de graduação em bioquímica.[11]
+
+O Bioquímico, portanto, é o profissional que estuda a bioquímica de um ponto de vista de ciência básica e aplicada tecnologicamente e industrialmente. Os bioquímicos utilizam ferramentas e conceitos da química e da biologia, particularmente da química orgânica, físico-química, biologia celular, biologia molecular e genética, para a elucidação dos sistemas vivos e para sua aplicação tecnológica e industrial. Desta forma o bioquímico possui conhecimentos científicos, capacitação técnica e habilidades para atuar em ensino superior, pesquisa, desenvolvimento e inovação, controle e garantia de qualidade, produção industrial, laboratórios, comércio de produtos científicos, laboratoriais e industriais, bioeconomia, além de aprender sobre os princípios éticos e legais relativos à profissão no âmbito do seu exercício profissional. O propósito da existência do curso de bioquímica está na unificação das diferentes visões e fragmentos da bioquímica que antes estavam espalhados em diferentes profissões: a bioquímica científica (pesquisa), a bioquímica industrial, a bioquímica clínica e toxicológica, a bioquímica agrícola, a bioquímica de alimentos e bromatologia, a bioquímica educacional, a tecnologia bioquímica e biotecnologia, e mesmo a bioquímica comercial (marketing, gestão etc). Os cursos de graduação em bioquímica são tradicionais, bem consolidados e de perfil bem definido em diversos países como Portugal, Espanha, Reino Unido, Chile, Canadá, Austrália e nos Estados Unidos, onde é uma da 10 profissões mais valorizadas e de maior salário. No Brasil, a oferta de cursos de graduação em bioquímica é recente, em função da combinação do crescente interesse no ensino da bioquímica de forma aprofundada a nível de graduação com a migração do do perfil do farmacêutico para ser um profissional de saúde. Com isso, abre-se um espaço natural para o surgimento dos bacharelados em bioquímica, com o perfil de profissional da química e da área tecnológica em qualquer interface química-biologia.[12]
+
+Em Portugal
+A licenciatura em bioquímica, em Portugal, foi criada em 1979, na Universidade de Coimbra,[13] sendo prontamente seguido de diversas outras universidades.[14]
+
+Em 1995, os licenciados (bacharéis) em Bioquímica criaram a Associação Nacional de Bioquímicos (ANBIOQ), com sede em Coimbra.
+
+No Brasil
+
+Símbolo profissional dos Bacharéis em Bioquímica do Brasil
+O bacharelado em bioquímica, no Brasil, foi criado em 2001, na Universidade Federal de Viçosa,[11] visando a suprir a necessidade crescente de profissionais qualificados para atuar nas áreas de pesquisa e desenvolvimento tecnológico das diversas áreas relacionadas com o curso.
+
+Em moldes semelhantes, foi criado em 2008, o segundo curso de graduação em bioquímica do Brasil; a Universidade Federal de São João del Rei,[15] implantou o curso em seu campus de expansão Centro-Oeste.[16] Em 2011, foi criado o terceiro curso de graduação em Bioquímica, da Universidade Estadual de Maringá. Existe também na USP a graduação em química com ênfase em bioquímica.
+
+No Brasil, não se deve confundir farmacêutico com o bioquímico, visto que um é profissional de saúde e outro é profissional da química em qualquer interface com a biologia. Por bastante tempo, os cursos de graduação em farmácia no Brasil denominaram-se Farmácia-Bioquímica, em errônea alusão à habilitação em análises clínicas . Isto gerou na sociedade, e mesmo nos meios acadêmicos, a falsa noção de que bioquímica seria análises clínicas somente e seria sinônimo de farmácia, o que de fato não é verdadeiro.[19][1]
+
+Em 2014 foi criado o Movimento Bioquímica Brasil, com presença nas principais mídias sociais, site e canal de vídeo no principal agregador desta mídia, dedicados a divulgar o Bacharel em Bioquímica e a divulgar a ciência, tecnologia e inovação em Bioquímica. Desde o início do movimento, a influência de conceitos-chave de empreendedorismo, responsabilidade individual, responsabilidade social, vivência no mercado de trabalho não acadêmico e união entre os cursos e bioquímicos se mostrou forte, resultando na consolidação do Bacharelado em Bioquímica no Brasil, como prova a simbologia aqui exposta.
+
+Diferenças para outras profissões
+A bioquímica pode ser vista como um fim em si ou como uma ferramenta para diversas outras profissões:
+
+Bioquímico: A Bioquímica é vista como um fim em si. Tem como foco o estudo da bioquímica pura e da bioquímica aplicada em diversos setores industriais e laboratoriais;
+Farmacêutico: A Bioquímica é ferramenta para este profissional da saúde, tanto para sua atuação no uso racional de medicamentos (atenção e assistência farmacêuticas; dispensação de medicamentos), quanto em sua atuação em análises clínicas;
+Profissões biológicas (Biólogo/Biomédico): A Bioquímica é ferramenta para estes profissionais nos seus respectivos ramos de atuação;
+Profissões de origem biológica (Medicina, Veterinária, Agronomia, Zootecnia, Odontologia, Nutrição etc..): Idem o item acima, é uma ferramenta;
+Profissões químicas (Engenharia química e derivados, Química, Engenharia de Alimentos): Idem acima., é uma ferramenta.

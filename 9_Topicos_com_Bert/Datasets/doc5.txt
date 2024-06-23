@@ -1,0 +1,130 @@
+Histologia
+Origem: Wikipédia, a enciclopédia livre.
+
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Dezembro de 2014)
+
+Imagem em grande aumento de corte histológico de fígado corado com hematoxilina e eosina, observado em microscópio óptico. Várias células estão presentes. Observe núcleos (em cor azul-roxo) contendo nucléolos (em azul escuro) envolvidos por citoplasma (em cor de rosa). Os espaços claros são capilares sanguíneos.
+Histologia (do grego hystos = tecido + logos = estudo, conhecimento) é também denominada Anatomia Microscópica ou Biologia Tecidual.[1][2] Estas denominações se referem ao ramo da Biologia que estuda a estrutura microscópica e as funções das células, tecidos e órgãos que compõem os organismos animais e vegetais.[1][2][3] Um setor da Histologia dedicado especificamente ao estudo das células, denominado antigamente Citologia, desenvolveu-se em um importante ramo da ciência denominado Biologia Celular.
+
+A Histologia uma importante disciplina de Graduação e de Pós-graduação das áreas de Ciências Biológicas e da Saúde.[2][1] Além disso é uma relevante área de pesquisa que contribuiu e contribui significativamente com importantes descobertas científicas no conhecimento de Biologia e Saúde.
+
+A Histologia pode ser conceitualmente classificada em Histologia Animal, com enfoque em animais, Histologia Humana, com enfoque em seres humanos, Histologia Vegetal, com enfoque em vegetais, dentre outras.
+
+
+Índice
+1	Os primeiros microscópios - do sec. 16 ao sec. 19
+2	Desenvolvimento inicial da Histologia do sec. 16 ao sec. 19
+3	Métodos de estudo de células, tecidos e órgãos animais por microscópios
+3.1	Cortes por congelação
+4	Conceito de tecido animal
+5	Ver também
+6	Referências
+7	Ligações externas
+Os primeiros microscópios - do sec. 16 ao sec. 19
+A Histologia surgiu como um resultado da invenção do microscópio óptico, também denominado microscópio de luz ou microscópio fotônico. Este instrumento utiliza iluminação por luz visível e lentes que produzem uma imagem aumentada de um objeto.
+
+Os microscópios mais primitivos, denominados microscópios simples, são constituídos por uma única lente, em contraposição aos microscópios formados por pelo menos dois sistemas de lentes, denominados microscópios compostos.  A invenção do microscópio é uma questão obscura. Teria ocorrido entre 1590 e 1619 sendo atribuída a várias pessoas, dentre as quais os fabricantes de lentes holandeses Zacharias Janssen (1585 –1632) e Hans Lippershey ou Lipperhey (1570 –1619) [4]  
+
+
+Desenho de microscópio usado por Robert Hooke. Trata-se de um microscópio classificado como microscópio composto, constituído por pelo menos dois conjuntos de lentes. Sua iluminação se origina de um elemento incandescente (à esquerda) e é focalizada sobre o objeto por meio de um globo de vidro.
+
+Desenho de Robert Hooke, publicado em seu livro Micrographia em 1665, mostrando a primeira descrição de células vistas em um microscópio. São os pequenos espaços circulares que correspondem a células envolvidas pelas suas paredes celulares.
+As primeiras descrições publicadas sobre células e outras estruturas microscópicas se devem a Robert Hooke (1635 –1703) e a Anton van Leeuwenhoek (1632 - 1723), ambos membros da Royal Society de Londres. O inglês Robert Hooke era um arquiteto e cientista que se dedicou a pesquisas em Física e Astronomia. Em 1665 publicou um livro denominado Micrographia no qual relata que utilizou um microscópio composto (construído pelo fabricante de instrumentos Christopher Cock) para estudar diversos objetos de pequeno tamanho.  Nesta obra mostra imagens de delegados cortes de cortiça e descreve pequenos espaços delimitados tendo pela primeira vez utilizado a denominação "células".  Estes espaços representam as células da cortiça envolvidas pelas suas paredes celulares.
+
+
+Réplica de uma das centenas de modelos criados por Leeuwenhoek. É um microscópio classificado como um microscópio simples, dotado de apenas uma lente. As lentes fabricadas por Leeuwenkoek eram capazes de produzir aumentos muito grandes.
+Leeuwenhoek foi um holandês comerciante de tecidos, de pouca instrução especializada, mas que em certo momento de sua vida aprendeu a polir lentes. Construiu centenas de microscópios dotados de uma única lente, pequena e quase esférica, porém que forneciam grandes ampliações.[5]
+
+Por meio desses microscópios simples observou e descreveu detalhadamente a partir de 1674 diversos tipos de materiais biológicos, como protozoários, embriões de plantas, glóbulos vermelhos do sangue e espermatozoides presentes no sêmen de animais. Foi Leeuwenhoek quem descobriu a existência dos micróbios, como eram antigamente chamados os seres microscópicos atualmente conhecidos como micro-organismos.
+
+Os primeiros microscópios chamados microscópios simples e por uma única lente geralmente forneciam aumentos relativamente pequenos e com imagens de baixa qualidade e resolução, mas mesmo assim permitiram a Leeuwenhoek a observação adequada de muitos objetos microscópicos.
+
+Um grande progresso foi o desenvolvimento dos microscópios dotados de dois ou mais sistemas de lentes, os microscópios compostos. Neste tipo de microscópio, as lentes situadas próximas aos objetos são denominadas lentes objetivas. As lentes situadas próximas aos olhos ou a um sistema de captação de imagens são denominadas lentes oculares. As lentes objetivas são as mais importantes do sistema óptico, pois fornecem um aumento inicial do objeto que é em seguida ampliado pelas lentes oculares. [1] [2] As lentes objetivas são as maiores responsáveis pela obtenção de imagens com altas resoluções, qualidade que permite a observação de grande número de detalhes dos objetos. Estas lentes, isoladas ou em associação de duas, três ou quatro, permitiram o exame cada vez mais preciso das estruturas que compõem os seres vivos.
+
+A grande evolução dos microscópios compostos nos séculos seguintes resultou principalmente da pesquisa em busca de melhores lentes objetivas. Estas são as lentes cruciais para a produção de uma boa imagem, enquanto que as lentes oculares são mais simples e de fabricação mais fácil.
+
+No início da fabricação dos microscópios, as lentes objetivas padeciam de muitos defeitos, que em óptica são denominados aberrações. Exemplos são a aberração cromática e a aberração da esfericidade, que produzem grande deterioração da imagem. Um outro fator de grande importância para a obtenção de uma imagem de boa qualidade é o poder de resolução das lentes. O poder de resolução é fundamental para fornecimento de detalhes, especialmente importante quando se estudam objetos microscópicos.
+
+O inglês Joseph Jackson Lister (1786 - 1869) era um negociante de vinho em Londres e apaixonado por História Natural. No entanto, ficava muito insatisfeito por que os microscópios à sua disposição não produziam imagens adequadas para a boa observação de espécimes vegetais e animais. Lister decidiu pesquisar a fabricação de melhores lentes de vidro para o instrumento. Além de construir lentes de alta qualidade, ele associou lentes em conjuntos de duas ou três e também desenhou e mandou fabricar o suporte para o microscópio que acabou se tornando padrão para estes instrumentos por 150-200 anos.[1] [2] Lister foi o principal responsável por transformar o microscópio composto em um instrumento de alta qualidade.
+
+
+Joseph Jackson Lister e um dos microscópios compostos que criou.
+Lister publicou os detalhes de seu microscópio em 1830 fato que desencadeou a produção de excelentes microscópios na Inglaterra e no continente europeu.  Na Alemanha a fábrica de microscópios de Ernst Leitz introduziu em 1863 o dispositivo para mudança de posição das lentes objetivas, utilizado até a atualidade. Em 1866 Carl Zeiss contratou o físico Ernst Abbe para sua companhia de produtos ópticos. Abbe introduziu novos conceitos sobre a definição da resolução óptica das lentes, sobre a fabricação de lentes e inventou um componente para a iluminação adequada dos microscópios, o condensador de Abbe.[6]
+
+Na década de 1880, a fabricação das lentes dos microscópios ópticos compostos atingiu o limite da resolução possível nestes instrumentos.
+
+Portanto, o microscópio óptico composto, inicialmente bastante simples e rudimentar, foi sendo progressivamente aperfeiçoado e a partir dos modelos iniciais muitos tipos de microscópios foram desenvolvidos, por exemplo microscópio estereoscópico (também denominado lupa estereoscópica), microscópio de polarização, microscópio de contraste de fase, microscópio invertido, microscópio de fluorescência, microscópio confocal de varredura a laser e vários outros instrumentos.
+
+Os microscópios eletrônicos pertencem a uma outra família de microscópios. Caracterizam-se por utilizarem um feixe de elétrons para obtenção de imagens em vez de luz visível. Suas lentes são bobinas eletromagnéticas em vez de lentes de vidro. Ernst Ruska e Max Knoll trabalhando na firma Siemens na Alemanha construíram o primeiro protótipo de um microscópio eletrônico de transmissão, que foi apresentado em 1931. O tipos de microscópios eletrônicos mais utilizados são o microscópio eletrônico de transmissão e o microscópio eletrônico de varredura.
+
+Desenvolvimento inicial da Histologia do sec. 16 ao sec. 19
+Marcello Malpighi (1628 –1694) foi um médico italiano que dedicou a maior parte de sua vida a um grande número de estudos sobre a anatomia microscópica de animais e vegetais. Pode ser considerado o pai da Histologia. Em animais examinou órgãos sadios e patológicos e descreveu um grande número de estruturas, várias das quais receberam o seu nome, como por exemplo os corpúsculos de Malpighi presentes no baço, uma das camadas da epiderme e os corpúsculos de Malpighi dos rins, atualmente denominados corpúsculos renais.
+
+Malpighi estudou a circulação sanguínea nos pulmões de ovelhas e sapos. Nestes últimos observou a presença de uma rede de minúsculos vasos sanguíneos, mais tarde denominados capilares sanguíneos, elucidando interpretações errôneas existentes na época sobre o mecanismo da respiração. Esta foi também uma importante contribuição para entender o mecanismo da circulação sanguínea inicialmente apresentada por Harvey, pois a descoberta de Malpighi demonstrou a conexão entre o sistema arterial e o sistema venoso e comprovou que a circulação sanguínea ocorre em um compartimento fechado.  Dedicou-se também a estudos sobre Embriologia, pela sua observação do desenvolvimento de embriões de galinha.[7][8]
+
+O termo tecido já havia sido introduzido por volta de 1800 pelo anatomista, patologista e cirurgião francês Marie François Xavier Bichat (1771-1802) ). Bichat não utilizava microscópios, mas por meio da dissecção de corpos humanos percebeu que os diversos órgãos não eram entidades únicas e homogêneas, mas que eram formados por diversos constituintes. Alguns destes constituintes tinham formatos de membranas e, talvez por esta razão, os denominou tecidos. Outra importante contribuição de Bichat foi sua proposta de que as doenças poderiam ser causadas por alterações dos tecidos componentes dos órgãos.[9][10]
+
+A. F. J. Karl Mayer (1787 - 1865) deu o nome de Histologia em 1819, à disciplina que descreve a estrutura microscópica dos tecidos e órgãos dos animais.
+
+O desenvolvimento subsequente da Histologia esteve principalmente relacionado à pesquisa biológica sobre estrutura e funções das células, tecidos e órgãos assim como à pesquisa ligada à Patologia humana e animal.
+
+Este desenvolvimento dependeu da introdução de metodologias para a preparação de tecidos e órgãos para serem observados ao microscópio. Gradualmente foram aperfeiçoados os métodos para: 1 -  preservação dos tecidos e órgãos retirados de animais, procedimento também denominado de fixação; 2 -  métodos para permitir que estes materiais fossem cortados em espessuras microscópicas; 3 -  técnicas para a coloração dos cortes histológicos. Além disso, o desenvolvimento da Bioquímica, associado à pesquisa da estrtura e função das células revolucionou o conhecimento da Biologia e da Medicina humana e animal.
+
+A introdução por Ferdinand Blum em 1894 da solução de formaldeído para a preservação de tecidos animais desencadeou um grande avanço no estudo de tecidos e órgãos ao microscópio, devido à excelente qualidade da preservação das estruturas dos tecidos em comparação com os procedimentos usados anteriormente. A fixação de células, tecidos e órgãos por solução de formaldeído, também denominada formalina, ainda se constitui na maneira mais usada para preparação de tecidos para estudo em microscopia óptica, pois mantém a estrutura e muito da composição química dos tecidos. Outras soluções fixadoras, além da formalina, foram sendo propostas mais tarde.[11][12][13]
+
+Para se obter fatias muito delgadas de tecidos e órgãos, denominados cortes histológicos, da ordem de 5 a 10 μm (micrometros) de espessura (5 a 10 milésimos de milímetro), é necessário que os fragmentos de tecidos e órgãos sejam suportados por um substrato relativamente rígido. A introdução por volta de 1860 da técnica de embebição dos fragmentos de órgãos por parafina, atribuída ao bacteriologista suíço Edwin Klebs quando trabalhava na Universidade de Berna, possibilitou um enorme avanço para a obtenção de cortes histológicos.[14]
+
+O instrumento utilizado para obtenção de cortes histológicos é denominado micrótomo. Sua denominação deriva do grego micros (pequeno) e temnein (cortar). Os primeiros micrótomos foram inventados em 1770 por George Adams, Jr. (1750–1795) e por Alexander Cummings. Estes micrótomos, no entanto, forneciam cortes relativamente espessos que não permitiam a observação detalhada das estruturas dos tecidos.
+
+Mais tarde surgiram melhoramentos importantes para obtenção de um instrumento adequado a fornecer cortes mais delgados.  Um destes instrumentos aperfeiçoados foram desenvolvidos em 1865 pelo anatomista suíço Wilhelm His, [15]um estudioso do sistema nervoso. [16]
+
+Jan Evangelista Purkynje  (1787- 1869) um importante anatomista e fisiologista tcheco foi um dos primeiros a utilizar o micrótomo para obter cortes histológicos. Entre outras descobertas, Purkinje descreveu as células do cerebelo que receberam seu nome (células de Purkinje), as fibras do sistema de condução dos impulsos cardíacos (fibras de Purkinje), os cílios móveis presentes na superfície das células dos epitélios que revestem dutos genitais e o aparelho respiratório.[17][18]
+
+A Edwin Klebs é atribuída construção do primeiro micrótomo de congelação (1871), instrumento aperfeiçoado e utilizado até hoje em pesquisa em laboratório e em diagnóstico durante atos cirúrgicos.
+
+Como a maior parte das estruturas celulares é incolor, a observação de cortes histológicos ao microscópio óptico depende da introdução de cor a estas estruturas por meio do processo de coloração. Um dos primeiros corantes utilizados tanto para estruturas vegetais foi o Carmim.[19] Este corante é uma substância de cor vermelha com um pequeno toque de azul, extraída de um inseto, a cochonilha.
+
+A hematoxilina, usada por Wilhelm von Waldeyer em 1863 e associada à eosina por Bohner (1865), é a combinação de corantes mais usada até os dias de hoje para coloração de cortes histológicos.  [20][21]
+
+A síntese de anilina efetivada por William Perkin (1838 - 1907) em 1856 e aplicada inicialmente a tintura de tecidos, desencadeou a pesquisa pela síntese muitos outros corantes principalmente pela indústria química inglesa e alemã dentre os quais podem ser citados os corantes alizarina, acridina, índigo (anil), fucsina, safranina sintetizados por Heinrich Caro e Adolf von Baeyer.
+
+Desde então estes e muitos outros corantes foram aplicados para coloração de cortes histológicos. A fluoresceína, uma substância fluorescente ainda largamente usada em técnicas imuno-histoquímicas na atualidade, também foi sintetizada no século XIX. Uma grande variedade de corantes, isoladamente ou em combinações de corantes, foram capazes de revelar toda a riqueza de componentes que constituem a estrutura das células e tecidos do corpo. Técnicas de impregnação metálica permitiram grandes descobertas, principalmente sobre a estrutura do sistema nervoso.
+
+Dentre os maiores histologistas do século XIX merece ser citado Albert von Kölliker (1817-1905) pelos seus estudos embriológicos e de tecidos animais, identificação no músculo esquelético dos corpúsculos mais tarde denominados mitocôndrias, demonstração da continuidade dentre os neurônios e as fibras nervosas contribuindo para a  confirmação da Teoria neuronal  proposta por Ramón y Cajal e, além disso, desenvolveu muitas técnicas de preparação de tecidos para obtenção de cortes histológicos. Publicou entre 1852 e 1854 o primeiro grande tratado de Histologia denominado Handbuch der Gewebelehre des menschen für Aertze und Studierende.[20]
+
+Muitas metodologias foram desenvolvidas para obter informações de cortes histológicos, como a Radioautografia in situ, a Histoquímica, a Imunocitoquímica, a Hibridização in situ, a Estereologia.[1][2] Estas metodologias fizeram com que a Histologia passasse a investigar cada vez mais profundamente o funcionamento das células que constituem os tecidos e órgãos.
+
+Camillo Golgi e Santiago Ramón y Cajal receberam o Prêmio Nobel de Fisiologia e Medicina de 1906 pelas suas investigações sobre a estrutura e funções do tecido nervoso.
+
+Nos séculos XX e XXI o conhecimento sobre a estrutura e função das células, tecidos e órgãos se ampliou muito pela introdução de variadas metodologias para preparação e coloração de tecidos, técnicas para detecção de moléculas em células isoladas e em cortes histológicos por citoquímica e imunocitoquímica. Paralelamente foram desenvolvidos diversos tipos de microscópios ópticos e microscópios eletrônicos que permitiram aprofundar conhecimentos anteriores e descobrir novas estruturas e funções das células e tecidos. Graças aos aperfeiçoamentos destas metodologia as pesquisas em Histologia permitiram desvendar a estrutura e a função dos tecidos e órgãos animais e geraram conhecimentos que levaram à grande revolução ocorrida nos últimos 100 anos na Biologia animal, Medicina Humana e Medicina Veterinária.
+
+Métodos de estudo de células, tecidos e órgãos animais por microscópios
+Na maioria dos tipos de microscópios um feixe luminoso deve atravessar o objeto para se formar uma imagem. Por esta razão, os objetos que queremos observar necessitam ser muito delgados e transparentes ou translúcidos.
+
+Células isoladas espalhadas sobre uma lâmina de vidro são delgadas e transparentes. Não oferecem obstáculo relevante para a passagem de um feixe luminoso e para a formação de uma boa imagem. Por outro lado, tecidos e órgãos animais são espessos e opacos. Para que estes possam ser observados por microscópios necessitam ser cortados em fatias muito delgadas.
+
+Células espalhadas sobre uma lâmina de vidro, a lâmina histológica, ou cortes de tecidos ou órgãos colocados sobre a lâmina de vidro constituem o que se denomina preparado histológico. As células e os cortes são protegidos por uma delgada lâmina de vidro denominada lamínula.
+
+A seguir serão descritos resumidamente alguns procedimentos necessários para confecção e coloração de fatias delgadas de tecidos e órgãos animais, denominados cortes histológicos. O conjunto destas metodologias é chamado Técnicas Histológicas.[22][23] [24][1][2]
+
+Os cortes histológicos são obtidos em um instrumento de precisão denominado micrótomo. Para obter cortes muito delgados da ordem de 5 a 10 μm (micrometros) os fragmentos necessitam ser rígidos.  Há várias maneiras de obter cortes histológicos. A maneira mais comum é pela utilização do micrótomo de parafina. Para essa finalidade os fragmentos de tecidos e órgãos são colocados no interior de parafina, material que fornece um suporte rígido para a obtenção de fatias de 5 a 10 um (micrometros) de espessura. Antes de serem embebidos em parafina os fragmentos de tecidos e órgãos necessitam passar por uma série de tratamentos.
+
+A confecção de cortes histológicos se inicia pelo procedimento denominado fixação. A fixação tem como finalidades principais o endurecimento e a preservação da estrutura e da composição química das células, tecidos e órgãos. Nesta etapa fragmentos de tecidos ou órgãos são geralmente mergulhados durante um certo tempo em líquidos chamados fixadores histológicos. Um exemplo de fixador muito usado é o formol. Em seguida os fragmentos são submetidos à retirada de seu componente aquoso (desidratação) que é seguida pela diafanização ou clareamento dos fragmentos e, finalmente, eles são colocados em um meio que depois permitirá o corte dos fragmentos dos tecidos e órgãos. A substância mais utilizada para esta finalidade é a parafina aquecida ao ponto de se tornar líquida. Deixando-se a parafina voltar depois à temperatura ambiente ela se solidifica e oferece um suporte rígido adequado para a próxima etapa que é a confecção dos cortes dos tecidos em um micrótomo. Os cortes são colocados sobre pequenas lâminas de vidro que medem geralmente 25 x 75 mm, nas quais ficam aderidos.
+
+As células, tecidos e órgãos animais são em sua maioria incolores. Para produzirem uma imagem em um microscópio necessitam quase sempre serem corados. Para isso a parafina deve ser inicialmente solubilizada e retirada e o corte mergulhado em vários líquidos até ser finalmente colocado em soluções corantes. Após a coloração os cortes são protegidos com delgadas lâminas de vidro (as lamínulas) e podem ser finalmente observados ao microscópio. A técnica de coloração mais usada em Histologia utiliza os corantes hematoxilina e a eosina. [21]Esta coloração define bastante bem vários componentes das células e da matriz extracelular. A hematoxilina cora o núcleo, nucléolo e ergastoplasma, assim como componentes ácidos presentes na matriz extracelular. A eosina cora o citoplasma e suas várias organelas, assim como componentes da matyriz extracelular de carater neutro e menos ácido. Diversas organelas e componentes da matriz extracelular necessitam de colorações específicas para serem evidenciados.
+
+Cortes por congelação
+Há maneiras rápidas de se obter cortes delgados além da descrita acima.  Por exemplo, para o exame microscópico de órgãos durante um ato cirúrgico que necessita um diagnóstico anatomopatológico feito naquele momento.  Neste caso os fragmentos de órgãos são congelados e seccionados em um micrótomo especial que fornece cortes que podem ser imediatamente corados e examinados ao microscópio. São os chamados cortes de congelação. Cortes por congelação também são utilizados em laboratórios de pesquisa para procedimentos que revelam a presença de moléculas nas estruturas presentes nos cortes.
+
+Conceito de tecido animal
+Há centenas de tipos celulares em um organismo multicelular complexo como o nosso. Todas estas células são derivadas de uma única célula, o ovócito fertilizado ou zigoto. Este, no decorrer do desenvolvimento, se multiplicou por inúmeros ciclos mitóticos.[1][2]
+
+Durante o desenvolvimento embrionário e fetal as células indiferenciadas e totipotentes gradativamente passam por um processo chamado diferenciação, durante o qual alguns genes são silenciados ou reprimidos e outros ativados.
+
+Grupos de células que passaram pela ativação de determinados genes ou de conjuntos de genes começam a produzir proteínas novas ou aumentam muito a produção de proteínas pré-existentes. Devido a esses processos estes grupos de células adquirem propriedades estruturais e funcionais características (a sua morfologia, tipo de organização, sua função), resultando na formação de famílias de células.
+
+As famílias de células com estrutura, função e comportamento semelhantes constituem os tecidos do corpo. Estes tecidos foram classificados com base em sua morfologia, localização, funções e origem embriológica. Há quatro tecidos básicos: tecido epitelial, tecido conjuntivo, tecido muscular e tecido nervoso.
+
+Esta classificação é útil do ponto de vista da sistematização dos tecidos e do ponto de vista didático. Com o correr do tempo e em consequência dos progressos havidos nos conhecimentos das células e da matriz extracelular, percebeu-se que esta classificação rígida das células em tecidos pode não mais ser aplicada indiscriminadamente.
+
+Um exemplo é o termo célula secretora, que antigamente era aplicado às células glandulares do tecido epitelial, pois se pensava que eram as únicas células que exerciam a função de secreção. Hoje sabe-se que muitos tipos de células, tanto epiteliais como do tecido conjuntivo, muscular e nervoso também são secretoras.

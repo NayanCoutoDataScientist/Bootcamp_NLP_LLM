@@ -1,0 +1,50 @@
+Engenharia reversa
+Origem: Wikipédia, a enciclopédia livre.
+Tupolev Tu-4 01 red (10255123433).jpgBoeing B-29 Superfortress, USA - Air Force AN1026155.jpg
+O soviético Tupolev Tu-4 (acima), criado a partir da engenharia reversa do Boeing B-29 Superfortress dos EUA (embaixo).[1] [2]
+Engenharia reversa é o processo de descobrir os princípios tecnológicos e o funcionamento de um dispositivo, objeto ou sistema, através da análise de sua estrutura, função e operação. Objetivamente a engenharia reversa consiste em, por exemplo, desmontar uma máquina para descobrir como ela funciona.[3][4] É objeto de estudo em universidades e faculdades principalmente ligada à área de tecnologia.[5][6]
+
+
+Índice
+1	História
+1.1	Tecnologia militar
+2	Descrição
+3	Razões
+4	Ver também
+5	Referências
+6	Bibliografia
+7	Ligações externas
+História
+Tecnologia militar
+Ver também: Ciência militar e Tecnologia militar
+
+MiG-21 da "Operação Diamante" exposto no Israel Air Force Museum.
+Durante a Primeira Guerra Púnica (264-241 a.C.), a até então inferior marinha romana, foi equipada com embarcações construídas seguindo o modelo de navios capturados de Cartago. Segundo Plínio, o velho, a República Romana construiu uma esquadra de 200 quinquerremes em apenas 60 dias [7][8] (ver: Engenharia romana).
+
+O ás da aviação francês da I Guerra Mundial, Roland Garros, criou um sistema de placas metálicas defletoras para proteger as pás da hélice de sua aeronave dos disparos de sua metralhadora. Em 19 de Abril de 1915, problemas mecânicos forçaram-no a pousar atrás das linhas inimigas e ele tentou, sem sucesso, destruir seu avião para ocultar seu sistema, antes de ser capturado pelos alemães.[9] Garros conseguiu fugir de seus captores mas, seu caça Morane-Saulnier Type L, foi estudado por Anthony Fokker que, em resposta, criou um mecanismo sincronizador para metralhadoras que foi instalado no monomotor Fokker Eindecker.[10] O mecanismo desenvolvido por Fokker permitia que a arma deste avião disparasse através das pás da hélice sem atingi-las. O caça Fokker Eindecker garantiu ao Luftstreitkräfte (braço aéreo do Exército Imperial Alemão) a superioridade aérea sobre os aliados entre 1915 e 1916, período conhecido como "Flagelo Fokker".[11] Nesta fase da guerra, os pilotos aliados chamavam seus próprios aviões de Fokker Fodder ("Alvos para os Fokker").[11]
+
+Na II Guerra mundial, os aliados copiaram o desenho dos recipientes (bidões) para transporte de combustíveis alemão, considerado mais eficiente. O recipiente kanister alemão deu origem ao jerrycan aliado.[12] O armamento antitanque panzerschreck alemão foi um "clone" da bazuca americana.[13] Em 1944, quatro bombardeiros Boeing B-29 Superfortress dos EUA fizeram pousos de emergência na URSS [14] e, com a tecnologia obtida através da análise destas aeronaves, os soviéticos criaram o Tupolev Tu-4.[1]
+
+A Operação Diamante, executada pelo Mossad durante a Guerra Fria, teve o objetivo de adquirir um caça MiG-21 soviético.[15] O que foi alcançado em 16 de Agosto de 1966, quando o piloto desertor Munir Redfa roubou um MiG-21 da Força Aérea do Iraque levando-o para Israel.[15] O estudo deste caça, revelou segredos que foram aproveitados pelas forças aéreas de Israel e dos Estados Unidos.[15] A Operação Diamante foi dramatizada no telefilme da HBO, Steal the Sky (1988), estrelado por Ben Cross e Mariel Hemingway.[16]
+
+Descrição
+Muitas vezes, a engenharia reversa envolve desmontar algo (um dispositivo mecânico, componente eletrônico, programa de computador, ou fatores biológicos, químicos ou matéria orgânica) e analisar seus componentes e funcionamento em detalhes, tanto para fins de manutenção ou para apoiar a criação de um novo dispositivo ou programa que faz a mesma coisa, assim como duplicar o original.[3]
+
+A engenharia reversa tem suas origens na análise de hardware para obter vantagem comercial ou militar. O objetivo é deduzir as decisões de design de produtos finais com pouco ou nenhum conhecimento adicional sobre os procedimentos envolvidos na produção original. As mesmas técnicas são posteriormente pesquisadas para aplicação em sistemas de software, não para fins industriais ou de defesa, mas sim para substituir documentação incorreta, incompleta ou indisponível.[3]
+
+Razões
+
+Processo de engenharia reversa do Mercedes-Benz W196 1954 "Flecha de Prata".[17]
+Razões para a engenharia reversa[18][19][20]:
+
+Cópia: A Engenharia Reversa tem sido constantemente aplicada para a reprodução de produtos. No entanto, a utilização desta técnica em um objeto patenteado, acaba por infringir a referida patente. Neste sentido, se apenas uma parte do componente é patenteado ou o item não possui patente, a duplicação é um meio lícito[21]. A técnica de Engenharia Reversa utilizada para a reprodução de produtos acelera  o processo de desenvolvimento e promove o bem-estar do consumidor ao prover uma gama de produtos similares com preço competitivo. Ainda, consequente redução do preço final dos produtos desenvolvidos, sendo observada uma melhor prática concorrencial quando são respeitadas as patentes e os direitos de propriedade[22].
+Interface: Engenharia reversa pode ser usado quando necessário um sistema efetuar interface com outro sistema e como as negociações entra os dois sistemas deverão ser estabelecidos. Esses requisitos normalmente existem para interoperabilidade.
+Espionagem militar ou comercial: Aprender sobre o produto do concorrente, adquirindo o protótipo para posterior análise. Isso pode resultar em desenvolvimento de produto semelhante, ou melhores contramedidas.
+Melhorar deficiências de documentação: A engenharia reversa pode ser realizada quando a documentação de um sistema para a sua concepção, produção, operação ou manutenção possui deficiências e projetistas originais não estão disponíveis para melhorá-lo. Pode fornecer a documentação mais atual necessária para compreender o estado mais atual de um sistema de software.
+Obsolescência: Circuitos integrados muitas vezes parecem ter sido projetados em sistemas proprietários, obsoletos, o que significa que a única maneira de incorporar a funcionalidade em nova tecnologia é a engenharia reversa do chip existente e, em seguida, reprojetá-lo.
+Modernização de software: É geralmente necessária, a fim de compreender o estado de software existente ou legado, a fim de estimar adequadamente o esforço necessário para migrar conhecimento do sistema. Muito disso pode ser impulsionada por mudanças de requisitos funcionais, de conformidade ou de segurança.
+Produtos de análise de segurança: Para examinar como um produto funciona, quais são as especificações de seus componentes, estimar os custos e identificar o potencial de violação de patente. Aquisição de dados sensíveis por desmontar e analisar o projeto de um componente do sistema. Outra intenção pode ser a de remover proteção contra cópia, a evasão de restrições de acesso.
+Resolução de falha: Para corrigir (ou às vezes para melhorar) o software que não é mais suportado por seus criadores (por exemplo, Abandonware).
+Criação de duplicatas não licenciadas/aprovadas: Tais duplicatas são chamadas de clones no domínio da computação.
+Fins acadêmicos/aprendizagem: Para fins de aprendizagem podem servir para compreender as questões-chave de um projeto mal sucedido e, posteriormente, melhorar o design.
+Inteligência técnica do competidor: Entenda o que um concorrente está realmente fazendo, contra o que eles dizem que estão fazendo.
